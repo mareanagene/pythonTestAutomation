@@ -1,0 +1,2826 @@
+('C:\\Users\\magene\\OneDrive - NVIDIA Corporation\\Desktop\\Marian Nvidia '
+ 'AutoTestResults\\pythonTestAutomation\\build\\testAuto\\PYZ-00.pyz',
+ [('PIL',
+   'C:\\Users\\magene\\OneDrive - NVIDIA Corporation\\Desktop\\Marian Nvidia '
+   'AutoTestResults\\pythonTestAutomation\\venv_pythonAuto\\lib\\site-packages\\PIL\\__init__.py',
+   'PYMODULE'),
+  ('PIL.BlpImagePlugin',
+   'C:\\Users\\magene\\OneDrive - NVIDIA Corporation\\Desktop\\Marian Nvidia '
+   'AutoTestResults\\pythonTestAutomation\\venv_pythonAuto\\lib\\site-packages\\PIL\\BlpImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.BmpImagePlugin',
+   'C:\\Users\\magene\\OneDrive - NVIDIA Corporation\\Desktop\\Marian Nvidia '
+   'AutoTestResults\\pythonTestAutomation\\venv_pythonAuto\\lib\\site-packages\\PIL\\BmpImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.BufrStubImagePlugin',
+   'C:\\Users\\magene\\OneDrive - NVIDIA Corporation\\Desktop\\Marian Nvidia '
+   'AutoTestResults\\pythonTestAutomation\\venv_pythonAuto\\lib\\site-packages\\PIL\\BufrStubImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.CurImagePlugin',
+   'C:\\Users\\magene\\OneDrive - NVIDIA Corporation\\Desktop\\Marian Nvidia '
+   'AutoTestResults\\pythonTestAutomation\\venv_pythonAuto\\lib\\site-packages\\PIL\\CurImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.DcxImagePlugin',
+   'C:\\Users\\magene\\OneDrive - NVIDIA Corporation\\Desktop\\Marian Nvidia '
+   'AutoTestResults\\pythonTestAutomation\\venv_pythonAuto\\lib\\site-packages\\PIL\\DcxImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.DdsImagePlugin',
+   'C:\\Users\\magene\\OneDrive - NVIDIA Corporation\\Desktop\\Marian Nvidia '
+   'AutoTestResults\\pythonTestAutomation\\venv_pythonAuto\\lib\\site-packages\\PIL\\DdsImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.EpsImagePlugin',
+   'C:\\Users\\magene\\OneDrive - NVIDIA Corporation\\Desktop\\Marian Nvidia '
+   'AutoTestResults\\pythonTestAutomation\\venv_pythonAuto\\lib\\site-packages\\PIL\\EpsImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.ExifTags',
+   'C:\\Users\\magene\\OneDrive - NVIDIA Corporation\\Desktop\\Marian Nvidia '
+   'AutoTestResults\\pythonTestAutomation\\venv_pythonAuto\\lib\\site-packages\\PIL\\ExifTags.py',
+   'PYMODULE'),
+  ('PIL.FitsImagePlugin',
+   'C:\\Users\\magene\\OneDrive - NVIDIA Corporation\\Desktop\\Marian Nvidia '
+   'AutoTestResults\\pythonTestAutomation\\venv_pythonAuto\\lib\\site-packages\\PIL\\FitsImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.FliImagePlugin',
+   'C:\\Users\\magene\\OneDrive - NVIDIA Corporation\\Desktop\\Marian Nvidia '
+   'AutoTestResults\\pythonTestAutomation\\venv_pythonAuto\\lib\\site-packages\\PIL\\FliImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.FpxImagePlugin',
+   'C:\\Users\\magene\\OneDrive - NVIDIA Corporation\\Desktop\\Marian Nvidia '
+   'AutoTestResults\\pythonTestAutomation\\venv_pythonAuto\\lib\\site-packages\\PIL\\FpxImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.FtexImagePlugin',
+   'C:\\Users\\magene\\OneDrive - NVIDIA Corporation\\Desktop\\Marian Nvidia '
+   'AutoTestResults\\pythonTestAutomation\\venv_pythonAuto\\lib\\site-packages\\PIL\\FtexImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.GbrImagePlugin',
+   'C:\\Users\\magene\\OneDrive - NVIDIA Corporation\\Desktop\\Marian Nvidia '
+   'AutoTestResults\\pythonTestAutomation\\venv_pythonAuto\\lib\\site-packages\\PIL\\GbrImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.GifImagePlugin',
+   'C:\\Users\\magene\\OneDrive - NVIDIA Corporation\\Desktop\\Marian Nvidia '
+   'AutoTestResults\\pythonTestAutomation\\venv_pythonAuto\\lib\\site-packages\\PIL\\GifImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.GimpGradientFile',
+   'C:\\Users\\magene\\OneDrive - NVIDIA Corporation\\Desktop\\Marian Nvidia '
+   'AutoTestResults\\pythonTestAutomation\\venv_pythonAuto\\lib\\site-packages\\PIL\\GimpGradientFile.py',
+   'PYMODULE'),
+  ('PIL.GimpPaletteFile',
+   'C:\\Users\\magene\\OneDrive - NVIDIA Corporation\\Desktop\\Marian Nvidia '
+   'AutoTestResults\\pythonTestAutomation\\venv_pythonAuto\\lib\\site-packages\\PIL\\GimpPaletteFile.py',
+   'PYMODULE'),
+  ('PIL.GribStubImagePlugin',
+   'C:\\Users\\magene\\OneDrive - NVIDIA Corporation\\Desktop\\Marian Nvidia '
+   'AutoTestResults\\pythonTestAutomation\\venv_pythonAuto\\lib\\site-packages\\PIL\\GribStubImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.Hdf5StubImagePlugin',
+   'C:\\Users\\magene\\OneDrive - NVIDIA Corporation\\Desktop\\Marian Nvidia '
+   'AutoTestResults\\pythonTestAutomation\\venv_pythonAuto\\lib\\site-packages\\PIL\\Hdf5StubImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.IcnsImagePlugin',
+   'C:\\Users\\magene\\OneDrive - NVIDIA Corporation\\Desktop\\Marian Nvidia '
+   'AutoTestResults\\pythonTestAutomation\\venv_pythonAuto\\lib\\site-packages\\PIL\\IcnsImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.IcoImagePlugin',
+   'C:\\Users\\magene\\OneDrive - NVIDIA Corporation\\Desktop\\Marian Nvidia '
+   'AutoTestResults\\pythonTestAutomation\\venv_pythonAuto\\lib\\site-packages\\PIL\\IcoImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.ImImagePlugin',
+   'C:\\Users\\magene\\OneDrive - NVIDIA Corporation\\Desktop\\Marian Nvidia '
+   'AutoTestResults\\pythonTestAutomation\\venv_pythonAuto\\lib\\site-packages\\PIL\\ImImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.Image',
+   'C:\\Users\\magene\\OneDrive - NVIDIA Corporation\\Desktop\\Marian Nvidia '
+   'AutoTestResults\\pythonTestAutomation\\venv_pythonAuto\\lib\\site-packages\\PIL\\Image.py',
+   'PYMODULE'),
+  ('PIL.ImageChops',
+   'C:\\Users\\magene\\OneDrive - NVIDIA Corporation\\Desktop\\Marian Nvidia '
+   'AutoTestResults\\pythonTestAutomation\\venv_pythonAuto\\lib\\site-packages\\PIL\\ImageChops.py',
+   'PYMODULE'),
+  ('PIL.ImageCms',
+   'C:\\Users\\magene\\OneDrive - NVIDIA Corporation\\Desktop\\Marian Nvidia '
+   'AutoTestResults\\pythonTestAutomation\\venv_pythonAuto\\lib\\site-packages\\PIL\\ImageCms.py',
+   'PYMODULE'),
+  ('PIL.ImageColor',
+   'C:\\Users\\magene\\OneDrive - NVIDIA Corporation\\Desktop\\Marian Nvidia '
+   'AutoTestResults\\pythonTestAutomation\\venv_pythonAuto\\lib\\site-packages\\PIL\\ImageColor.py',
+   'PYMODULE'),
+  ('PIL.ImageDraw',
+   'C:\\Users\\magene\\OneDrive - NVIDIA Corporation\\Desktop\\Marian Nvidia '
+   'AutoTestResults\\pythonTestAutomation\\venv_pythonAuto\\lib\\site-packages\\PIL\\ImageDraw.py',
+   'PYMODULE'),
+  ('PIL.ImageDraw2',
+   'C:\\Users\\magene\\OneDrive - NVIDIA Corporation\\Desktop\\Marian Nvidia '
+   'AutoTestResults\\pythonTestAutomation\\venv_pythonAuto\\lib\\site-packages\\PIL\\ImageDraw2.py',
+   'PYMODULE'),
+  ('PIL.ImageFile',
+   'C:\\Users\\magene\\OneDrive - NVIDIA Corporation\\Desktop\\Marian Nvidia '
+   'AutoTestResults\\pythonTestAutomation\\venv_pythonAuto\\lib\\site-packages\\PIL\\ImageFile.py',
+   'PYMODULE'),
+  ('PIL.ImageFilter',
+   'C:\\Users\\magene\\OneDrive - NVIDIA Corporation\\Desktop\\Marian Nvidia '
+   'AutoTestResults\\pythonTestAutomation\\venv_pythonAuto\\lib\\site-packages\\PIL\\ImageFilter.py',
+   'PYMODULE'),
+  ('PIL.ImageFont',
+   'C:\\Users\\magene\\OneDrive - NVIDIA Corporation\\Desktop\\Marian Nvidia '
+   'AutoTestResults\\pythonTestAutomation\\venv_pythonAuto\\lib\\site-packages\\PIL\\ImageFont.py',
+   'PYMODULE'),
+  ('PIL.ImageGrab',
+   'C:\\Users\\magene\\OneDrive - NVIDIA Corporation\\Desktop\\Marian Nvidia '
+   'AutoTestResults\\pythonTestAutomation\\venv_pythonAuto\\lib\\site-packages\\PIL\\ImageGrab.py',
+   'PYMODULE'),
+  ('PIL.ImageMath',
+   'C:\\Users\\magene\\OneDrive - NVIDIA Corporation\\Desktop\\Marian Nvidia '
+   'AutoTestResults\\pythonTestAutomation\\venv_pythonAuto\\lib\\site-packages\\PIL\\ImageMath.py',
+   'PYMODULE'),
+  ('PIL.ImageMode',
+   'C:\\Users\\magene\\OneDrive - NVIDIA Corporation\\Desktop\\Marian Nvidia '
+   'AutoTestResults\\pythonTestAutomation\\venv_pythonAuto\\lib\\site-packages\\PIL\\ImageMode.py',
+   'PYMODULE'),
+  ('PIL.ImageOps',
+   'C:\\Users\\magene\\OneDrive - NVIDIA Corporation\\Desktop\\Marian Nvidia '
+   'AutoTestResults\\pythonTestAutomation\\venv_pythonAuto\\lib\\site-packages\\PIL\\ImageOps.py',
+   'PYMODULE'),
+  ('PIL.ImagePalette',
+   'C:\\Users\\magene\\OneDrive - NVIDIA Corporation\\Desktop\\Marian Nvidia '
+   'AutoTestResults\\pythonTestAutomation\\venv_pythonAuto\\lib\\site-packages\\PIL\\ImagePalette.py',
+   'PYMODULE'),
+  ('PIL.ImagePath',
+   'C:\\Users\\magene\\OneDrive - NVIDIA Corporation\\Desktop\\Marian Nvidia '
+   'AutoTestResults\\pythonTestAutomation\\venv_pythonAuto\\lib\\site-packages\\PIL\\ImagePath.py',
+   'PYMODULE'),
+  ('PIL.ImageQt',
+   'C:\\Users\\magene\\OneDrive - NVIDIA Corporation\\Desktop\\Marian Nvidia '
+   'AutoTestResults\\pythonTestAutomation\\venv_pythonAuto\\lib\\site-packages\\PIL\\ImageQt.py',
+   'PYMODULE'),
+  ('PIL.ImageSequence',
+   'C:\\Users\\magene\\OneDrive - NVIDIA Corporation\\Desktop\\Marian Nvidia '
+   'AutoTestResults\\pythonTestAutomation\\venv_pythonAuto\\lib\\site-packages\\PIL\\ImageSequence.py',
+   'PYMODULE'),
+  ('PIL.ImageShow',
+   'C:\\Users\\magene\\OneDrive - NVIDIA Corporation\\Desktop\\Marian Nvidia '
+   'AutoTestResults\\pythonTestAutomation\\venv_pythonAuto\\lib\\site-packages\\PIL\\ImageShow.py',
+   'PYMODULE'),
+  ('PIL.ImageTk',
+   'C:\\Users\\magene\\OneDrive - NVIDIA Corporation\\Desktop\\Marian Nvidia '
+   'AutoTestResults\\pythonTestAutomation\\venv_pythonAuto\\lib\\site-packages\\PIL\\ImageTk.py',
+   'PYMODULE'),
+  ('PIL.ImageWin',
+   'C:\\Users\\magene\\OneDrive - NVIDIA Corporation\\Desktop\\Marian Nvidia '
+   'AutoTestResults\\pythonTestAutomation\\venv_pythonAuto\\lib\\site-packages\\PIL\\ImageWin.py',
+   'PYMODULE'),
+  ('PIL.ImtImagePlugin',
+   'C:\\Users\\magene\\OneDrive - NVIDIA Corporation\\Desktop\\Marian Nvidia '
+   'AutoTestResults\\pythonTestAutomation\\venv_pythonAuto\\lib\\site-packages\\PIL\\ImtImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.IptcImagePlugin',
+   'C:\\Users\\magene\\OneDrive - NVIDIA Corporation\\Desktop\\Marian Nvidia '
+   'AutoTestResults\\pythonTestAutomation\\venv_pythonAuto\\lib\\site-packages\\PIL\\IptcImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.Jpeg2KImagePlugin',
+   'C:\\Users\\magene\\OneDrive - NVIDIA Corporation\\Desktop\\Marian Nvidia '
+   'AutoTestResults\\pythonTestAutomation\\venv_pythonAuto\\lib\\site-packages\\PIL\\Jpeg2KImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.JpegImagePlugin',
+   'C:\\Users\\magene\\OneDrive - NVIDIA Corporation\\Desktop\\Marian Nvidia '
+   'AutoTestResults\\pythonTestAutomation\\venv_pythonAuto\\lib\\site-packages\\PIL\\JpegImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.JpegPresets',
+   'C:\\Users\\magene\\OneDrive - NVIDIA Corporation\\Desktop\\Marian Nvidia '
+   'AutoTestResults\\pythonTestAutomation\\venv_pythonAuto\\lib\\site-packages\\PIL\\JpegPresets.py',
+   'PYMODULE'),
+  ('PIL.McIdasImagePlugin',
+   'C:\\Users\\magene\\OneDrive - NVIDIA Corporation\\Desktop\\Marian Nvidia '
+   'AutoTestResults\\pythonTestAutomation\\venv_pythonAuto\\lib\\site-packages\\PIL\\McIdasImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.MicImagePlugin',
+   'C:\\Users\\magene\\OneDrive - NVIDIA Corporation\\Desktop\\Marian Nvidia '
+   'AutoTestResults\\pythonTestAutomation\\venv_pythonAuto\\lib\\site-packages\\PIL\\MicImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.MpegImagePlugin',
+   'C:\\Users\\magene\\OneDrive - NVIDIA Corporation\\Desktop\\Marian Nvidia '
+   'AutoTestResults\\pythonTestAutomation\\venv_pythonAuto\\lib\\site-packages\\PIL\\MpegImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.MpoImagePlugin',
+   'C:\\Users\\magene\\OneDrive - NVIDIA Corporation\\Desktop\\Marian Nvidia '
+   'AutoTestResults\\pythonTestAutomation\\venv_pythonAuto\\lib\\site-packages\\PIL\\MpoImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.MspImagePlugin',
+   'C:\\Users\\magene\\OneDrive - NVIDIA Corporation\\Desktop\\Marian Nvidia '
+   'AutoTestResults\\pythonTestAutomation\\venv_pythonAuto\\lib\\site-packages\\PIL\\MspImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.PaletteFile',
+   'C:\\Users\\magene\\OneDrive - NVIDIA Corporation\\Desktop\\Marian Nvidia '
+   'AutoTestResults\\pythonTestAutomation\\venv_pythonAuto\\lib\\site-packages\\PIL\\PaletteFile.py',
+   'PYMODULE'),
+  ('PIL.PalmImagePlugin',
+   'C:\\Users\\magene\\OneDrive - NVIDIA Corporation\\Desktop\\Marian Nvidia '
+   'AutoTestResults\\pythonTestAutomation\\venv_pythonAuto\\lib\\site-packages\\PIL\\PalmImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.PcdImagePlugin',
+   'C:\\Users\\magene\\OneDrive - NVIDIA Corporation\\Desktop\\Marian Nvidia '
+   'AutoTestResults\\pythonTestAutomation\\venv_pythonAuto\\lib\\site-packages\\PIL\\PcdImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.PcxImagePlugin',
+   'C:\\Users\\magene\\OneDrive - NVIDIA Corporation\\Desktop\\Marian Nvidia '
+   'AutoTestResults\\pythonTestAutomation\\venv_pythonAuto\\lib\\site-packages\\PIL\\PcxImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.PdfImagePlugin',
+   'C:\\Users\\magene\\OneDrive - NVIDIA Corporation\\Desktop\\Marian Nvidia '
+   'AutoTestResults\\pythonTestAutomation\\venv_pythonAuto\\lib\\site-packages\\PIL\\PdfImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.PdfParser',
+   'C:\\Users\\magene\\OneDrive - NVIDIA Corporation\\Desktop\\Marian Nvidia '
+   'AutoTestResults\\pythonTestAutomation\\venv_pythonAuto\\lib\\site-packages\\PIL\\PdfParser.py',
+   'PYMODULE'),
+  ('PIL.PixarImagePlugin',
+   'C:\\Users\\magene\\OneDrive - NVIDIA Corporation\\Desktop\\Marian Nvidia '
+   'AutoTestResults\\pythonTestAutomation\\venv_pythonAuto\\lib\\site-packages\\PIL\\PixarImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.PngImagePlugin',
+   'C:\\Users\\magene\\OneDrive - NVIDIA Corporation\\Desktop\\Marian Nvidia '
+   'AutoTestResults\\pythonTestAutomation\\venv_pythonAuto\\lib\\site-packages\\PIL\\PngImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.PpmImagePlugin',
+   'C:\\Users\\magene\\OneDrive - NVIDIA Corporation\\Desktop\\Marian Nvidia '
+   'AutoTestResults\\pythonTestAutomation\\venv_pythonAuto\\lib\\site-packages\\PIL\\PpmImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.PsdImagePlugin',
+   'C:\\Users\\magene\\OneDrive - NVIDIA Corporation\\Desktop\\Marian Nvidia '
+   'AutoTestResults\\pythonTestAutomation\\venv_pythonAuto\\lib\\site-packages\\PIL\\PsdImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.PyAccess',
+   'C:\\Users\\magene\\OneDrive - NVIDIA Corporation\\Desktop\\Marian Nvidia '
+   'AutoTestResults\\pythonTestAutomation\\venv_pythonAuto\\lib\\site-packages\\PIL\\PyAccess.py',
+   'PYMODULE'),
+  ('PIL.QoiImagePlugin',
+   'C:\\Users\\magene\\OneDrive - NVIDIA Corporation\\Desktop\\Marian Nvidia '
+   'AutoTestResults\\pythonTestAutomation\\venv_pythonAuto\\lib\\site-packages\\PIL\\QoiImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.SgiImagePlugin',
+   'C:\\Users\\magene\\OneDrive - NVIDIA Corporation\\Desktop\\Marian Nvidia '
+   'AutoTestResults\\pythonTestAutomation\\venv_pythonAuto\\lib\\site-packages\\PIL\\SgiImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.SpiderImagePlugin',
+   'C:\\Users\\magene\\OneDrive - NVIDIA Corporation\\Desktop\\Marian Nvidia '
+   'AutoTestResults\\pythonTestAutomation\\venv_pythonAuto\\lib\\site-packages\\PIL\\SpiderImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.SunImagePlugin',
+   'C:\\Users\\magene\\OneDrive - NVIDIA Corporation\\Desktop\\Marian Nvidia '
+   'AutoTestResults\\pythonTestAutomation\\venv_pythonAuto\\lib\\site-packages\\PIL\\SunImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.TgaImagePlugin',
+   'C:\\Users\\magene\\OneDrive - NVIDIA Corporation\\Desktop\\Marian Nvidia '
+   'AutoTestResults\\pythonTestAutomation\\venv_pythonAuto\\lib\\site-packages\\PIL\\TgaImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.TiffImagePlugin',
+   'C:\\Users\\magene\\OneDrive - NVIDIA Corporation\\Desktop\\Marian Nvidia '
+   'AutoTestResults\\pythonTestAutomation\\venv_pythonAuto\\lib\\site-packages\\PIL\\TiffImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.TiffTags',
+   'C:\\Users\\magene\\OneDrive - NVIDIA Corporation\\Desktop\\Marian Nvidia '
+   'AutoTestResults\\pythonTestAutomation\\venv_pythonAuto\\lib\\site-packages\\PIL\\TiffTags.py',
+   'PYMODULE'),
+  ('PIL.WebPImagePlugin',
+   'C:\\Users\\magene\\OneDrive - NVIDIA Corporation\\Desktop\\Marian Nvidia '
+   'AutoTestResults\\pythonTestAutomation\\venv_pythonAuto\\lib\\site-packages\\PIL\\WebPImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.WmfImagePlugin',
+   'C:\\Users\\magene\\OneDrive - NVIDIA Corporation\\Desktop\\Marian Nvidia '
+   'AutoTestResults\\pythonTestAutomation\\venv_pythonAuto\\lib\\site-packages\\PIL\\WmfImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.XVThumbImagePlugin',
+   'C:\\Users\\magene\\OneDrive - NVIDIA Corporation\\Desktop\\Marian Nvidia '
+   'AutoTestResults\\pythonTestAutomation\\venv_pythonAuto\\lib\\site-packages\\PIL\\XVThumbImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.XbmImagePlugin',
+   'C:\\Users\\magene\\OneDrive - NVIDIA Corporation\\Desktop\\Marian Nvidia '
+   'AutoTestResults\\pythonTestAutomation\\venv_pythonAuto\\lib\\site-packages\\PIL\\XbmImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.XpmImagePlugin',
+   'C:\\Users\\magene\\OneDrive - NVIDIA Corporation\\Desktop\\Marian Nvidia '
+   'AutoTestResults\\pythonTestAutomation\\venv_pythonAuto\\lib\\site-packages\\PIL\\XpmImagePlugin.py',
+   'PYMODULE'),
+  ('PIL._binary',
+   'C:\\Users\\magene\\OneDrive - NVIDIA Corporation\\Desktop\\Marian Nvidia '
+   'AutoTestResults\\pythonTestAutomation\\venv_pythonAuto\\lib\\site-packages\\PIL\\_binary.py',
+   'PYMODULE'),
+  ('PIL._deprecate',
+   'C:\\Users\\magene\\OneDrive - NVIDIA Corporation\\Desktop\\Marian Nvidia '
+   'AutoTestResults\\pythonTestAutomation\\venv_pythonAuto\\lib\\site-packages\\PIL\\_deprecate.py',
+   'PYMODULE'),
+  ('PIL._typing',
+   'C:\\Users\\magene\\OneDrive - NVIDIA Corporation\\Desktop\\Marian Nvidia '
+   'AutoTestResults\\pythonTestAutomation\\venv_pythonAuto\\lib\\site-packages\\PIL\\_typing.py',
+   'PYMODULE'),
+  ('PIL._util',
+   'C:\\Users\\magene\\OneDrive - NVIDIA Corporation\\Desktop\\Marian Nvidia '
+   'AutoTestResults\\pythonTestAutomation\\venv_pythonAuto\\lib\\site-packages\\PIL\\_util.py',
+   'PYMODULE'),
+  ('PIL._version',
+   'C:\\Users\\magene\\OneDrive - NVIDIA Corporation\\Desktop\\Marian Nvidia '
+   'AutoTestResults\\pythonTestAutomation\\venv_pythonAuto\\lib\\site-packages\\PIL\\_version.py',
+   'PYMODULE'),
+  ('PIL.features',
+   'C:\\Users\\magene\\OneDrive - NVIDIA Corporation\\Desktop\\Marian Nvidia '
+   'AutoTestResults\\pythonTestAutomation\\venv_pythonAuto\\lib\\site-packages\\PIL\\features.py',
+   'PYMODULE'),
+  ('Xlib',
+   'C:\\Users\\magene\\OneDrive - NVIDIA Corporation\\Desktop\\Marian Nvidia '
+   'AutoTestResults\\pythonTestAutomation\\venv_pythonAuto\\lib\\site-packages\\Xlib\\__init__.py',
+   'PYMODULE'),
+  ('Xlib.X',
+   'C:\\Users\\magene\\OneDrive - NVIDIA Corporation\\Desktop\\Marian Nvidia '
+   'AutoTestResults\\pythonTestAutomation\\venv_pythonAuto\\lib\\site-packages\\Xlib\\X.py',
+   'PYMODULE'),
+  ('Xlib.XK',
+   'C:\\Users\\magene\\OneDrive - NVIDIA Corporation\\Desktop\\Marian Nvidia '
+   'AutoTestResults\\pythonTestAutomation\\venv_pythonAuto\\lib\\site-packages\\Xlib\\XK.py',
+   'PYMODULE'),
+  ('Xlib.Xatom',
+   'C:\\Users\\magene\\OneDrive - NVIDIA Corporation\\Desktop\\Marian Nvidia '
+   'AutoTestResults\\pythonTestAutomation\\venv_pythonAuto\\lib\\site-packages\\Xlib\\Xatom.py',
+   'PYMODULE'),
+  ('Xlib.Xcursorfont',
+   'C:\\Users\\magene\\OneDrive - NVIDIA Corporation\\Desktop\\Marian Nvidia '
+   'AutoTestResults\\pythonTestAutomation\\venv_pythonAuto\\lib\\site-packages\\Xlib\\Xcursorfont.py',
+   'PYMODULE'),
+  ('Xlib.Xutil',
+   'C:\\Users\\magene\\OneDrive - NVIDIA Corporation\\Desktop\\Marian Nvidia '
+   'AutoTestResults\\pythonTestAutomation\\venv_pythonAuto\\lib\\site-packages\\Xlib\\Xutil.py',
+   'PYMODULE'),
+  ('Xlib.display',
+   'C:\\Users\\magene\\OneDrive - NVIDIA Corporation\\Desktop\\Marian Nvidia '
+   'AutoTestResults\\pythonTestAutomation\\venv_pythonAuto\\lib\\site-packages\\Xlib\\display.py',
+   'PYMODULE'),
+  ('Xlib.error',
+   'C:\\Users\\magene\\OneDrive - NVIDIA Corporation\\Desktop\\Marian Nvidia '
+   'AutoTestResults\\pythonTestAutomation\\venv_pythonAuto\\lib\\site-packages\\Xlib\\error.py',
+   'PYMODULE'),
+  ('Xlib.ext',
+   'C:\\Users\\magene\\OneDrive - NVIDIA Corporation\\Desktop\\Marian Nvidia '
+   'AutoTestResults\\pythonTestAutomation\\venv_pythonAuto\\lib\\site-packages\\Xlib\\ext\\__init__.py',
+   'PYMODULE'),
+  ('Xlib.ext.composite',
+   'C:\\Users\\magene\\OneDrive - NVIDIA Corporation\\Desktop\\Marian Nvidia '
+   'AutoTestResults\\pythonTestAutomation\\venv_pythonAuto\\lib\\site-packages\\Xlib\\ext\\composite.py',
+   'PYMODULE'),
+  ('Xlib.ext.randr',
+   'C:\\Users\\magene\\OneDrive - NVIDIA Corporation\\Desktop\\Marian Nvidia '
+   'AutoTestResults\\pythonTestAutomation\\venv_pythonAuto\\lib\\site-packages\\Xlib\\ext\\randr.py',
+   'PYMODULE'),
+  ('Xlib.ext.record',
+   'C:\\Users\\magene\\OneDrive - NVIDIA Corporation\\Desktop\\Marian Nvidia '
+   'AutoTestResults\\pythonTestAutomation\\venv_pythonAuto\\lib\\site-packages\\Xlib\\ext\\record.py',
+   'PYMODULE'),
+  ('Xlib.ext.shape',
+   'C:\\Users\\magene\\OneDrive - NVIDIA Corporation\\Desktop\\Marian Nvidia '
+   'AutoTestResults\\pythonTestAutomation\\venv_pythonAuto\\lib\\site-packages\\Xlib\\ext\\shape.py',
+   'PYMODULE'),
+  ('Xlib.ext.xinerama',
+   'C:\\Users\\magene\\OneDrive - NVIDIA Corporation\\Desktop\\Marian Nvidia '
+   'AutoTestResults\\pythonTestAutomation\\venv_pythonAuto\\lib\\site-packages\\Xlib\\ext\\xinerama.py',
+   'PYMODULE'),
+  ('Xlib.ext.xtest',
+   'C:\\Users\\magene\\OneDrive - NVIDIA Corporation\\Desktop\\Marian Nvidia '
+   'AutoTestResults\\pythonTestAutomation\\venv_pythonAuto\\lib\\site-packages\\Xlib\\ext\\xtest.py',
+   'PYMODULE'),
+  ('Xlib.keysymdef',
+   'C:\\Users\\magene\\OneDrive - NVIDIA Corporation\\Desktop\\Marian Nvidia '
+   'AutoTestResults\\pythonTestAutomation\\venv_pythonAuto\\lib\\site-packages\\Xlib\\keysymdef\\__init__.py',
+   'PYMODULE'),
+  ('Xlib.keysymdef.apl',
+   'C:\\Users\\magene\\OneDrive - NVIDIA Corporation\\Desktop\\Marian Nvidia '
+   'AutoTestResults\\pythonTestAutomation\\venv_pythonAuto\\lib\\site-packages\\Xlib\\keysymdef\\apl.py',
+   'PYMODULE'),
+  ('Xlib.keysymdef.arabic',
+   'C:\\Users\\magene\\OneDrive - NVIDIA Corporation\\Desktop\\Marian Nvidia '
+   'AutoTestResults\\pythonTestAutomation\\venv_pythonAuto\\lib\\site-packages\\Xlib\\keysymdef\\arabic.py',
+   'PYMODULE'),
+  ('Xlib.keysymdef.cyrillic',
+   'C:\\Users\\magene\\OneDrive - NVIDIA Corporation\\Desktop\\Marian Nvidia '
+   'AutoTestResults\\pythonTestAutomation\\venv_pythonAuto\\lib\\site-packages\\Xlib\\keysymdef\\cyrillic.py',
+   'PYMODULE'),
+  ('Xlib.keysymdef.greek',
+   'C:\\Users\\magene\\OneDrive - NVIDIA Corporation\\Desktop\\Marian Nvidia '
+   'AutoTestResults\\pythonTestAutomation\\venv_pythonAuto\\lib\\site-packages\\Xlib\\keysymdef\\greek.py',
+   'PYMODULE'),
+  ('Xlib.keysymdef.hebrew',
+   'C:\\Users\\magene\\OneDrive - NVIDIA Corporation\\Desktop\\Marian Nvidia '
+   'AutoTestResults\\pythonTestAutomation\\venv_pythonAuto\\lib\\site-packages\\Xlib\\keysymdef\\hebrew.py',
+   'PYMODULE'),
+  ('Xlib.keysymdef.katakana',
+   'C:\\Users\\magene\\OneDrive - NVIDIA Corporation\\Desktop\\Marian Nvidia '
+   'AutoTestResults\\pythonTestAutomation\\venv_pythonAuto\\lib\\site-packages\\Xlib\\keysymdef\\katakana.py',
+   'PYMODULE'),
+  ('Xlib.keysymdef.korean',
+   'C:\\Users\\magene\\OneDrive - NVIDIA Corporation\\Desktop\\Marian Nvidia '
+   'AutoTestResults\\pythonTestAutomation\\venv_pythonAuto\\lib\\site-packages\\Xlib\\keysymdef\\korean.py',
+   'PYMODULE'),
+  ('Xlib.keysymdef.latin1',
+   'C:\\Users\\magene\\OneDrive - NVIDIA Corporation\\Desktop\\Marian Nvidia '
+   'AutoTestResults\\pythonTestAutomation\\venv_pythonAuto\\lib\\site-packages\\Xlib\\keysymdef\\latin1.py',
+   'PYMODULE'),
+  ('Xlib.keysymdef.latin2',
+   'C:\\Users\\magene\\OneDrive - NVIDIA Corporation\\Desktop\\Marian Nvidia '
+   'AutoTestResults\\pythonTestAutomation\\venv_pythonAuto\\lib\\site-packages\\Xlib\\keysymdef\\latin2.py',
+   'PYMODULE'),
+  ('Xlib.keysymdef.latin3',
+   'C:\\Users\\magene\\OneDrive - NVIDIA Corporation\\Desktop\\Marian Nvidia '
+   'AutoTestResults\\pythonTestAutomation\\venv_pythonAuto\\lib\\site-packages\\Xlib\\keysymdef\\latin3.py',
+   'PYMODULE'),
+  ('Xlib.keysymdef.latin4',
+   'C:\\Users\\magene\\OneDrive - NVIDIA Corporation\\Desktop\\Marian Nvidia '
+   'AutoTestResults\\pythonTestAutomation\\venv_pythonAuto\\lib\\site-packages\\Xlib\\keysymdef\\latin4.py',
+   'PYMODULE'),
+  ('Xlib.keysymdef.miscellany',
+   'C:\\Users\\magene\\OneDrive - NVIDIA Corporation\\Desktop\\Marian Nvidia '
+   'AutoTestResults\\pythonTestAutomation\\venv_pythonAuto\\lib\\site-packages\\Xlib\\keysymdef\\miscellany.py',
+   'PYMODULE'),
+  ('Xlib.keysymdef.publishing',
+   'C:\\Users\\magene\\OneDrive - NVIDIA Corporation\\Desktop\\Marian Nvidia '
+   'AutoTestResults\\pythonTestAutomation\\venv_pythonAuto\\lib\\site-packages\\Xlib\\keysymdef\\publishing.py',
+   'PYMODULE'),
+  ('Xlib.keysymdef.special',
+   'C:\\Users\\magene\\OneDrive - NVIDIA Corporation\\Desktop\\Marian Nvidia '
+   'AutoTestResults\\pythonTestAutomation\\venv_pythonAuto\\lib\\site-packages\\Xlib\\keysymdef\\special.py',
+   'PYMODULE'),
+  ('Xlib.keysymdef.technical',
+   'C:\\Users\\magene\\OneDrive - NVIDIA Corporation\\Desktop\\Marian Nvidia '
+   'AutoTestResults\\pythonTestAutomation\\venv_pythonAuto\\lib\\site-packages\\Xlib\\keysymdef\\technical.py',
+   'PYMODULE'),
+  ('Xlib.keysymdef.thai',
+   'C:\\Users\\magene\\OneDrive - NVIDIA Corporation\\Desktop\\Marian Nvidia '
+   'AutoTestResults\\pythonTestAutomation\\venv_pythonAuto\\lib\\site-packages\\Xlib\\keysymdef\\thai.py',
+   'PYMODULE'),
+  ('Xlib.keysymdef.xf86',
+   'C:\\Users\\magene\\OneDrive - NVIDIA Corporation\\Desktop\\Marian Nvidia '
+   'AutoTestResults\\pythonTestAutomation\\venv_pythonAuto\\lib\\site-packages\\Xlib\\keysymdef\\xf86.py',
+   'PYMODULE'),
+  ('Xlib.keysymdef.xk3270',
+   'C:\\Users\\magene\\OneDrive - NVIDIA Corporation\\Desktop\\Marian Nvidia '
+   'AutoTestResults\\pythonTestAutomation\\venv_pythonAuto\\lib\\site-packages\\Xlib\\keysymdef\\xk3270.py',
+   'PYMODULE'),
+  ('Xlib.keysymdef.xkb',
+   'C:\\Users\\magene\\OneDrive - NVIDIA Corporation\\Desktop\\Marian Nvidia '
+   'AutoTestResults\\pythonTestAutomation\\venv_pythonAuto\\lib\\site-packages\\Xlib\\keysymdef\\xkb.py',
+   'PYMODULE'),
+  ('Xlib.protocol',
+   'C:\\Users\\magene\\OneDrive - NVIDIA Corporation\\Desktop\\Marian Nvidia '
+   'AutoTestResults\\pythonTestAutomation\\venv_pythonAuto\\lib\\site-packages\\Xlib\\protocol\\__init__.py',
+   'PYMODULE'),
+  ('Xlib.protocol.display',
+   'C:\\Users\\magene\\OneDrive - NVIDIA Corporation\\Desktop\\Marian Nvidia '
+   'AutoTestResults\\pythonTestAutomation\\venv_pythonAuto\\lib\\site-packages\\Xlib\\protocol\\display.py',
+   'PYMODULE'),
+  ('Xlib.protocol.event',
+   'C:\\Users\\magene\\OneDrive - NVIDIA Corporation\\Desktop\\Marian Nvidia '
+   'AutoTestResults\\pythonTestAutomation\\venv_pythonAuto\\lib\\site-packages\\Xlib\\protocol\\event.py',
+   'PYMODULE'),
+  ('Xlib.protocol.request',
+   'C:\\Users\\magene\\OneDrive - NVIDIA Corporation\\Desktop\\Marian Nvidia '
+   'AutoTestResults\\pythonTestAutomation\\venv_pythonAuto\\lib\\site-packages\\Xlib\\protocol\\request.py',
+   'PYMODULE'),
+  ('Xlib.protocol.rq',
+   'C:\\Users\\magene\\OneDrive - NVIDIA Corporation\\Desktop\\Marian Nvidia '
+   'AutoTestResults\\pythonTestAutomation\\venv_pythonAuto\\lib\\site-packages\\Xlib\\protocol\\rq.py',
+   'PYMODULE'),
+  ('Xlib.protocol.structs',
+   'C:\\Users\\magene\\OneDrive - NVIDIA Corporation\\Desktop\\Marian Nvidia '
+   'AutoTestResults\\pythonTestAutomation\\venv_pythonAuto\\lib\\site-packages\\Xlib\\protocol\\structs.py',
+   'PYMODULE'),
+  ('Xlib.rdb',
+   'C:\\Users\\magene\\OneDrive - NVIDIA Corporation\\Desktop\\Marian Nvidia '
+   'AutoTestResults\\pythonTestAutomation\\venv_pythonAuto\\lib\\site-packages\\Xlib\\rdb.py',
+   'PYMODULE'),
+  ('Xlib.support',
+   'C:\\Users\\magene\\OneDrive - NVIDIA Corporation\\Desktop\\Marian Nvidia '
+   'AutoTestResults\\pythonTestAutomation\\venv_pythonAuto\\lib\\site-packages\\Xlib\\support\\__init__.py',
+   'PYMODULE'),
+  ('Xlib.support.connect',
+   'C:\\Users\\magene\\OneDrive - NVIDIA Corporation\\Desktop\\Marian Nvidia '
+   'AutoTestResults\\pythonTestAutomation\\venv_pythonAuto\\lib\\site-packages\\Xlib\\support\\connect.py',
+   'PYMODULE'),
+  ('Xlib.support.lock',
+   'C:\\Users\\magene\\OneDrive - NVIDIA Corporation\\Desktop\\Marian Nvidia '
+   'AutoTestResults\\pythonTestAutomation\\venv_pythonAuto\\lib\\site-packages\\Xlib\\support\\lock.py',
+   'PYMODULE'),
+  ('Xlib.support.unix_connect',
+   'C:\\Users\\magene\\OneDrive - NVIDIA Corporation\\Desktop\\Marian Nvidia '
+   'AutoTestResults\\pythonTestAutomation\\venv_pythonAuto\\lib\\site-packages\\Xlib\\support\\unix_connect.py',
+   'PYMODULE'),
+  ('Xlib.support.vms_connect',
+   'C:\\Users\\magene\\OneDrive - NVIDIA Corporation\\Desktop\\Marian Nvidia '
+   'AutoTestResults\\pythonTestAutomation\\venv_pythonAuto\\lib\\site-packages\\Xlib\\support\\vms_connect.py',
+   'PYMODULE'),
+  ('Xlib.threaded',
+   'C:\\Users\\magene\\OneDrive - NVIDIA Corporation\\Desktop\\Marian Nvidia '
+   'AutoTestResults\\pythonTestAutomation\\venv_pythonAuto\\lib\\site-packages\\Xlib\\threaded.py',
+   'PYMODULE'),
+  ('Xlib.xauth',
+   'C:\\Users\\magene\\OneDrive - NVIDIA Corporation\\Desktop\\Marian Nvidia '
+   'AutoTestResults\\pythonTestAutomation\\venv_pythonAuto\\lib\\site-packages\\Xlib\\xauth.py',
+   'PYMODULE'),
+  ('Xlib.xobject',
+   'C:\\Users\\magene\\OneDrive - NVIDIA Corporation\\Desktop\\Marian Nvidia '
+   'AutoTestResults\\pythonTestAutomation\\venv_pythonAuto\\lib\\site-packages\\Xlib\\xobject\\__init__.py',
+   'PYMODULE'),
+  ('Xlib.xobject.colormap',
+   'C:\\Users\\magene\\OneDrive - NVIDIA Corporation\\Desktop\\Marian Nvidia '
+   'AutoTestResults\\pythonTestAutomation\\venv_pythonAuto\\lib\\site-packages\\Xlib\\xobject\\colormap.py',
+   'PYMODULE'),
+  ('Xlib.xobject.cursor',
+   'C:\\Users\\magene\\OneDrive - NVIDIA Corporation\\Desktop\\Marian Nvidia '
+   'AutoTestResults\\pythonTestAutomation\\venv_pythonAuto\\lib\\site-packages\\Xlib\\xobject\\cursor.py',
+   'PYMODULE'),
+  ('Xlib.xobject.drawable',
+   'C:\\Users\\magene\\OneDrive - NVIDIA Corporation\\Desktop\\Marian Nvidia '
+   'AutoTestResults\\pythonTestAutomation\\venv_pythonAuto\\lib\\site-packages\\Xlib\\xobject\\drawable.py',
+   'PYMODULE'),
+  ('Xlib.xobject.fontable',
+   'C:\\Users\\magene\\OneDrive - NVIDIA Corporation\\Desktop\\Marian Nvidia '
+   'AutoTestResults\\pythonTestAutomation\\venv_pythonAuto\\lib\\site-packages\\Xlib\\xobject\\fontable.py',
+   'PYMODULE'),
+  ('Xlib.xobject.icccm',
+   'C:\\Users\\magene\\OneDrive - NVIDIA Corporation\\Desktop\\Marian Nvidia '
+   'AutoTestResults\\pythonTestAutomation\\venv_pythonAuto\\lib\\site-packages\\Xlib\\xobject\\icccm.py',
+   'PYMODULE'),
+  ('Xlib.xobject.resource',
+   'C:\\Users\\magene\\OneDrive - NVIDIA Corporation\\Desktop\\Marian Nvidia '
+   'AutoTestResults\\pythonTestAutomation\\venv_pythonAuto\\lib\\site-packages\\Xlib\\xobject\\resource.py',
+   'PYMODULE'),
+  ('__future__',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.8_3.8.2800.0_x64__qbz5n2kfra8p0\\lib\\__future__.py',
+   'PYMODULE'),
+  ('_compat_pickle',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.8_3.8.2800.0_x64__qbz5n2kfra8p0\\lib\\_compat_pickle.py',
+   'PYMODULE'),
+  ('_compression',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.8_3.8.2800.0_x64__qbz5n2kfra8p0\\lib\\_compression.py',
+   'PYMODULE'),
+  ('_dummy_thread',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.8_3.8.2800.0_x64__qbz5n2kfra8p0\\lib\\_dummy_thread.py',
+   'PYMODULE'),
+  ('_osx_support',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.8_3.8.2800.0_x64__qbz5n2kfra8p0\\lib\\_osx_support.py',
+   'PYMODULE'),
+  ('_py_abc',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.8_3.8.2800.0_x64__qbz5n2kfra8p0\\lib\\_py_abc.py',
+   'PYMODULE'),
+  ('_pydecimal',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.8_3.8.2800.0_x64__qbz5n2kfra8p0\\lib\\_pydecimal.py',
+   'PYMODULE'),
+  ('_pyi_rth_utils',
+   'C:\\Users\\magene\\OneDrive - NVIDIA Corporation\\Desktop\\Marian Nvidia '
+   'AutoTestResults\\pythonTestAutomation\\venv_pythonAuto\\lib\\site-packages\\PyInstaller\\fake-modules\\_pyi_rth_utils\\__init__.py',
+   'PYMODULE'),
+  ('_pyi_rth_utils._win32',
+   'C:\\Users\\magene\\OneDrive - NVIDIA Corporation\\Desktop\\Marian Nvidia '
+   'AutoTestResults\\pythonTestAutomation\\venv_pythonAuto\\lib\\site-packages\\PyInstaller\\fake-modules\\_pyi_rth_utils\\_win32.py',
+   'PYMODULE'),
+  ('_pyi_rth_utils.tempfile',
+   'C:\\Users\\magene\\OneDrive - NVIDIA Corporation\\Desktop\\Marian Nvidia '
+   'AutoTestResults\\pythonTestAutomation\\venv_pythonAuto\\lib\\site-packages\\PyInstaller\\fake-modules\\_pyi_rth_utils\\tempfile.py',
+   'PYMODULE'),
+  ('_strptime',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.8_3.8.2800.0_x64__qbz5n2kfra8p0\\lib\\_strptime.py',
+   'PYMODULE'),
+  ('_threading_local',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.8_3.8.2800.0_x64__qbz5n2kfra8p0\\lib\\_threading_local.py',
+   'PYMODULE'),
+  ('argparse',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.8_3.8.2800.0_x64__qbz5n2kfra8p0\\lib\\argparse.py',
+   'PYMODULE'),
+  ('ast',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.8_3.8.2800.0_x64__qbz5n2kfra8p0\\lib\\ast.py',
+   'PYMODULE'),
+  ('asyncio',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.8_3.8.2800.0_x64__qbz5n2kfra8p0\\lib\\asyncio\\__init__.py',
+   'PYMODULE'),
+  ('asyncio.base_events',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.8_3.8.2800.0_x64__qbz5n2kfra8p0\\lib\\asyncio\\base_events.py',
+   'PYMODULE'),
+  ('asyncio.base_futures',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.8_3.8.2800.0_x64__qbz5n2kfra8p0\\lib\\asyncio\\base_futures.py',
+   'PYMODULE'),
+  ('asyncio.base_subprocess',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.8_3.8.2800.0_x64__qbz5n2kfra8p0\\lib\\asyncio\\base_subprocess.py',
+   'PYMODULE'),
+  ('asyncio.base_tasks',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.8_3.8.2800.0_x64__qbz5n2kfra8p0\\lib\\asyncio\\base_tasks.py',
+   'PYMODULE'),
+  ('asyncio.constants',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.8_3.8.2800.0_x64__qbz5n2kfra8p0\\lib\\asyncio\\constants.py',
+   'PYMODULE'),
+  ('asyncio.coroutines',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.8_3.8.2800.0_x64__qbz5n2kfra8p0\\lib\\asyncio\\coroutines.py',
+   'PYMODULE'),
+  ('asyncio.events',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.8_3.8.2800.0_x64__qbz5n2kfra8p0\\lib\\asyncio\\events.py',
+   'PYMODULE'),
+  ('asyncio.exceptions',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.8_3.8.2800.0_x64__qbz5n2kfra8p0\\lib\\asyncio\\exceptions.py',
+   'PYMODULE'),
+  ('asyncio.format_helpers',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.8_3.8.2800.0_x64__qbz5n2kfra8p0\\lib\\asyncio\\format_helpers.py',
+   'PYMODULE'),
+  ('asyncio.futures',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.8_3.8.2800.0_x64__qbz5n2kfra8p0\\lib\\asyncio\\futures.py',
+   'PYMODULE'),
+  ('asyncio.locks',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.8_3.8.2800.0_x64__qbz5n2kfra8p0\\lib\\asyncio\\locks.py',
+   'PYMODULE'),
+  ('asyncio.log',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.8_3.8.2800.0_x64__qbz5n2kfra8p0\\lib\\asyncio\\log.py',
+   'PYMODULE'),
+  ('asyncio.proactor_events',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.8_3.8.2800.0_x64__qbz5n2kfra8p0\\lib\\asyncio\\proactor_events.py',
+   'PYMODULE'),
+  ('asyncio.protocols',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.8_3.8.2800.0_x64__qbz5n2kfra8p0\\lib\\asyncio\\protocols.py',
+   'PYMODULE'),
+  ('asyncio.queues',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.8_3.8.2800.0_x64__qbz5n2kfra8p0\\lib\\asyncio\\queues.py',
+   'PYMODULE'),
+  ('asyncio.runners',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.8_3.8.2800.0_x64__qbz5n2kfra8p0\\lib\\asyncio\\runners.py',
+   'PYMODULE'),
+  ('asyncio.selector_events',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.8_3.8.2800.0_x64__qbz5n2kfra8p0\\lib\\asyncio\\selector_events.py',
+   'PYMODULE'),
+  ('asyncio.sslproto',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.8_3.8.2800.0_x64__qbz5n2kfra8p0\\lib\\asyncio\\sslproto.py',
+   'PYMODULE'),
+  ('asyncio.staggered',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.8_3.8.2800.0_x64__qbz5n2kfra8p0\\lib\\asyncio\\staggered.py',
+   'PYMODULE'),
+  ('asyncio.streams',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.8_3.8.2800.0_x64__qbz5n2kfra8p0\\lib\\asyncio\\streams.py',
+   'PYMODULE'),
+  ('asyncio.subprocess',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.8_3.8.2800.0_x64__qbz5n2kfra8p0\\lib\\asyncio\\subprocess.py',
+   'PYMODULE'),
+  ('asyncio.tasks',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.8_3.8.2800.0_x64__qbz5n2kfra8p0\\lib\\asyncio\\tasks.py',
+   'PYMODULE'),
+  ('asyncio.transports',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.8_3.8.2800.0_x64__qbz5n2kfra8p0\\lib\\asyncio\\transports.py',
+   'PYMODULE'),
+  ('asyncio.trsock',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.8_3.8.2800.0_x64__qbz5n2kfra8p0\\lib\\asyncio\\trsock.py',
+   'PYMODULE'),
+  ('asyncio.unix_events',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.8_3.8.2800.0_x64__qbz5n2kfra8p0\\lib\\asyncio\\unix_events.py',
+   'PYMODULE'),
+  ('asyncio.windows_events',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.8_3.8.2800.0_x64__qbz5n2kfra8p0\\lib\\asyncio\\windows_events.py',
+   'PYMODULE'),
+  ('asyncio.windows_utils',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.8_3.8.2800.0_x64__qbz5n2kfra8p0\\lib\\asyncio\\windows_utils.py',
+   'PYMODULE'),
+  ('base64',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.8_3.8.2800.0_x64__qbz5n2kfra8p0\\lib\\base64.py',
+   'PYMODULE'),
+  ('bdb',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.8_3.8.2800.0_x64__qbz5n2kfra8p0\\lib\\bdb.py',
+   'PYMODULE'),
+  ('bisect',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.8_3.8.2800.0_x64__qbz5n2kfra8p0\\lib\\bisect.py',
+   'PYMODULE'),
+  ('bz2',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.8_3.8.2800.0_x64__qbz5n2kfra8p0\\lib\\bz2.py',
+   'PYMODULE'),
+  ('calendar',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.8_3.8.2800.0_x64__qbz5n2kfra8p0\\lib\\calendar.py',
+   'PYMODULE'),
+  ('cmd',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.8_3.8.2800.0_x64__qbz5n2kfra8p0\\lib\\cmd.py',
+   'PYMODULE'),
+  ('code',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.8_3.8.2800.0_x64__qbz5n2kfra8p0\\lib\\code.py',
+   'PYMODULE'),
+  ('codeop',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.8_3.8.2800.0_x64__qbz5n2kfra8p0\\lib\\codeop.py',
+   'PYMODULE'),
+  ('colorsys',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.8_3.8.2800.0_x64__qbz5n2kfra8p0\\lib\\colorsys.py',
+   'PYMODULE'),
+  ('concurrent',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.8_3.8.2800.0_x64__qbz5n2kfra8p0\\lib\\concurrent\\__init__.py',
+   'PYMODULE'),
+  ('concurrent.futures',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.8_3.8.2800.0_x64__qbz5n2kfra8p0\\lib\\concurrent\\futures\\__init__.py',
+   'PYMODULE'),
+  ('concurrent.futures._base',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.8_3.8.2800.0_x64__qbz5n2kfra8p0\\lib\\concurrent\\futures\\_base.py',
+   'PYMODULE'),
+  ('concurrent.futures.process',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.8_3.8.2800.0_x64__qbz5n2kfra8p0\\lib\\concurrent\\futures\\process.py',
+   'PYMODULE'),
+  ('concurrent.futures.thread',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.8_3.8.2800.0_x64__qbz5n2kfra8p0\\lib\\concurrent\\futures\\thread.py',
+   'PYMODULE'),
+  ('configparser',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.8_3.8.2800.0_x64__qbz5n2kfra8p0\\lib\\configparser.py',
+   'PYMODULE'),
+  ('contextlib',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.8_3.8.2800.0_x64__qbz5n2kfra8p0\\lib\\contextlib.py',
+   'PYMODULE'),
+  ('contextvars',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.8_3.8.2800.0_x64__qbz5n2kfra8p0\\lib\\contextvars.py',
+   'PYMODULE'),
+  ('contourpy',
+   'C:\\Users\\magene\\OneDrive - NVIDIA Corporation\\Desktop\\Marian Nvidia '
+   'AutoTestResults\\pythonTestAutomation\\venv_pythonAuto\\lib\\site-packages\\contourpy\\__init__.py',
+   'PYMODULE'),
+  ('contourpy._version',
+   'C:\\Users\\magene\\OneDrive - NVIDIA Corporation\\Desktop\\Marian Nvidia '
+   'AutoTestResults\\pythonTestAutomation\\venv_pythonAuto\\lib\\site-packages\\contourpy\\_version.py',
+   'PYMODULE'),
+  ('contourpy.chunk',
+   'C:\\Users\\magene\\OneDrive - NVIDIA Corporation\\Desktop\\Marian Nvidia '
+   'AutoTestResults\\pythonTestAutomation\\venv_pythonAuto\\lib\\site-packages\\contourpy\\chunk.py',
+   'PYMODULE'),
+  ('contourpy.enum_util',
+   'C:\\Users\\magene\\OneDrive - NVIDIA Corporation\\Desktop\\Marian Nvidia '
+   'AutoTestResults\\pythonTestAutomation\\venv_pythonAuto\\lib\\site-packages\\contourpy\\enum_util.py',
+   'PYMODULE'),
+  ('copy',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.8_3.8.2800.0_x64__qbz5n2kfra8p0\\lib\\copy.py',
+   'PYMODULE'),
+  ('csv',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.8_3.8.2800.0_x64__qbz5n2kfra8p0\\lib\\csv.py',
+   'PYMODULE'),
+  ('ctypes',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.8_3.8.2800.0_x64__qbz5n2kfra8p0\\lib\\ctypes\\__init__.py',
+   'PYMODULE'),
+  ('ctypes._aix',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.8_3.8.2800.0_x64__qbz5n2kfra8p0\\lib\\ctypes\\_aix.py',
+   'PYMODULE'),
+  ('ctypes._endian',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.8_3.8.2800.0_x64__qbz5n2kfra8p0\\lib\\ctypes\\_endian.py',
+   'PYMODULE'),
+  ('ctypes.macholib',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.8_3.8.2800.0_x64__qbz5n2kfra8p0\\lib\\ctypes\\macholib\\__init__.py',
+   'PYMODULE'),
+  ('ctypes.macholib.dyld',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.8_3.8.2800.0_x64__qbz5n2kfra8p0\\lib\\ctypes\\macholib\\dyld.py',
+   'PYMODULE'),
+  ('ctypes.macholib.dylib',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.8_3.8.2800.0_x64__qbz5n2kfra8p0\\lib\\ctypes\\macholib\\dylib.py',
+   'PYMODULE'),
+  ('ctypes.macholib.framework',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.8_3.8.2800.0_x64__qbz5n2kfra8p0\\lib\\ctypes\\macholib\\framework.py',
+   'PYMODULE'),
+  ('ctypes.util',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.8_3.8.2800.0_x64__qbz5n2kfra8p0\\lib\\ctypes\\util.py',
+   'PYMODULE'),
+  ('ctypes.wintypes',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.8_3.8.2800.0_x64__qbz5n2kfra8p0\\lib\\ctypes\\wintypes.py',
+   'PYMODULE'),
+  ('cycler',
+   'C:\\Users\\magene\\OneDrive - NVIDIA Corporation\\Desktop\\Marian Nvidia '
+   'AutoTestResults\\pythonTestAutomation\\venv_pythonAuto\\lib\\site-packages\\cycler\\__init__.py',
+   'PYMODULE'),
+  ('dataclasses',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.8_3.8.2800.0_x64__qbz5n2kfra8p0\\lib\\dataclasses.py',
+   'PYMODULE'),
+  ('datetime',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.8_3.8.2800.0_x64__qbz5n2kfra8p0\\lib\\datetime.py',
+   'PYMODULE'),
+  ('dateutil',
+   'C:\\Users\\magene\\OneDrive - NVIDIA Corporation\\Desktop\\Marian Nvidia '
+   'AutoTestResults\\pythonTestAutomation\\venv_pythonAuto\\lib\\site-packages\\dateutil\\__init__.py',
+   'PYMODULE'),
+  ('dateutil._common',
+   'C:\\Users\\magene\\OneDrive - NVIDIA Corporation\\Desktop\\Marian Nvidia '
+   'AutoTestResults\\pythonTestAutomation\\venv_pythonAuto\\lib\\site-packages\\dateutil\\_common.py',
+   'PYMODULE'),
+  ('dateutil._version',
+   'C:\\Users\\magene\\OneDrive - NVIDIA Corporation\\Desktop\\Marian Nvidia '
+   'AutoTestResults\\pythonTestAutomation\\venv_pythonAuto\\lib\\site-packages\\dateutil\\_version.py',
+   'PYMODULE'),
+  ('dateutil.easter',
+   'C:\\Users\\magene\\OneDrive - NVIDIA Corporation\\Desktop\\Marian Nvidia '
+   'AutoTestResults\\pythonTestAutomation\\venv_pythonAuto\\lib\\site-packages\\dateutil\\easter.py',
+   'PYMODULE'),
+  ('dateutil.parser',
+   'C:\\Users\\magene\\OneDrive - NVIDIA Corporation\\Desktop\\Marian Nvidia '
+   'AutoTestResults\\pythonTestAutomation\\venv_pythonAuto\\lib\\site-packages\\dateutil\\parser\\__init__.py',
+   'PYMODULE'),
+  ('dateutil.parser._parser',
+   'C:\\Users\\magene\\OneDrive - NVIDIA Corporation\\Desktop\\Marian Nvidia '
+   'AutoTestResults\\pythonTestAutomation\\venv_pythonAuto\\lib\\site-packages\\dateutil\\parser\\_parser.py',
+   'PYMODULE'),
+  ('dateutil.parser.isoparser',
+   'C:\\Users\\magene\\OneDrive - NVIDIA Corporation\\Desktop\\Marian Nvidia '
+   'AutoTestResults\\pythonTestAutomation\\venv_pythonAuto\\lib\\site-packages\\dateutil\\parser\\isoparser.py',
+   'PYMODULE'),
+  ('dateutil.relativedelta',
+   'C:\\Users\\magene\\OneDrive - NVIDIA Corporation\\Desktop\\Marian Nvidia '
+   'AutoTestResults\\pythonTestAutomation\\venv_pythonAuto\\lib\\site-packages\\dateutil\\relativedelta.py',
+   'PYMODULE'),
+  ('dateutil.rrule',
+   'C:\\Users\\magene\\OneDrive - NVIDIA Corporation\\Desktop\\Marian Nvidia '
+   'AutoTestResults\\pythonTestAutomation\\venv_pythonAuto\\lib\\site-packages\\dateutil\\rrule.py',
+   'PYMODULE'),
+  ('dateutil.tz',
+   'C:\\Users\\magene\\OneDrive - NVIDIA Corporation\\Desktop\\Marian Nvidia '
+   'AutoTestResults\\pythonTestAutomation\\venv_pythonAuto\\lib\\site-packages\\dateutil\\tz\\__init__.py',
+   'PYMODULE'),
+  ('dateutil.tz._common',
+   'C:\\Users\\magene\\OneDrive - NVIDIA Corporation\\Desktop\\Marian Nvidia '
+   'AutoTestResults\\pythonTestAutomation\\venv_pythonAuto\\lib\\site-packages\\dateutil\\tz\\_common.py',
+   'PYMODULE'),
+  ('dateutil.tz._factories',
+   'C:\\Users\\magene\\OneDrive - NVIDIA Corporation\\Desktop\\Marian Nvidia '
+   'AutoTestResults\\pythonTestAutomation\\venv_pythonAuto\\lib\\site-packages\\dateutil\\tz\\_factories.py',
+   'PYMODULE'),
+  ('dateutil.tz.tz',
+   'C:\\Users\\magene\\OneDrive - NVIDIA Corporation\\Desktop\\Marian Nvidia '
+   'AutoTestResults\\pythonTestAutomation\\venv_pythonAuto\\lib\\site-packages\\dateutil\\tz\\tz.py',
+   'PYMODULE'),
+  ('dateutil.tz.win',
+   'C:\\Users\\magene\\OneDrive - NVIDIA Corporation\\Desktop\\Marian Nvidia '
+   'AutoTestResults\\pythonTestAutomation\\venv_pythonAuto\\lib\\site-packages\\dateutil\\tz\\win.py',
+   'PYMODULE'),
+  ('dateutil.zoneinfo',
+   'C:\\Users\\magene\\OneDrive - NVIDIA Corporation\\Desktop\\Marian Nvidia '
+   'AutoTestResults\\pythonTestAutomation\\venv_pythonAuto\\lib\\site-packages\\dateutil\\zoneinfo\\__init__.py',
+   'PYMODULE'),
+  ('decimal',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.8_3.8.2800.0_x64__qbz5n2kfra8p0\\lib\\decimal.py',
+   'PYMODULE'),
+  ('difflib',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.8_3.8.2800.0_x64__qbz5n2kfra8p0\\lib\\difflib.py',
+   'PYMODULE'),
+  ('dis',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.8_3.8.2800.0_x64__qbz5n2kfra8p0\\lib\\dis.py',
+   'PYMODULE'),
+  ('distutils',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.8_3.8.2800.0_x64__qbz5n2kfra8p0\\lib\\distutils\\__init__.py',
+   'PYMODULE'),
+  ('distutils.debug',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.8_3.8.2800.0_x64__qbz5n2kfra8p0\\lib\\distutils\\debug.py',
+   'PYMODULE'),
+  ('distutils.dep_util',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.8_3.8.2800.0_x64__qbz5n2kfra8p0\\lib\\distutils\\dep_util.py',
+   'PYMODULE'),
+  ('distutils.dir_util',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.8_3.8.2800.0_x64__qbz5n2kfra8p0\\lib\\distutils\\dir_util.py',
+   'PYMODULE'),
+  ('distutils.errors',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.8_3.8.2800.0_x64__qbz5n2kfra8p0\\lib\\distutils\\errors.py',
+   'PYMODULE'),
+  ('distutils.file_util',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.8_3.8.2800.0_x64__qbz5n2kfra8p0\\lib\\distutils\\file_util.py',
+   'PYMODULE'),
+  ('distutils.filelist',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.8_3.8.2800.0_x64__qbz5n2kfra8p0\\lib\\distutils\\filelist.py',
+   'PYMODULE'),
+  ('distutils.log',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.8_3.8.2800.0_x64__qbz5n2kfra8p0\\lib\\distutils\\log.py',
+   'PYMODULE'),
+  ('distutils.spawn',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.8_3.8.2800.0_x64__qbz5n2kfra8p0\\lib\\distutils\\spawn.py',
+   'PYMODULE'),
+  ('distutils.sysconfig',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.8_3.8.2800.0_x64__qbz5n2kfra8p0\\lib\\distutils\\sysconfig.py',
+   'PYMODULE'),
+  ('distutils.text_file',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.8_3.8.2800.0_x64__qbz5n2kfra8p0\\lib\\distutils\\text_file.py',
+   'PYMODULE'),
+  ('distutils.util',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.8_3.8.2800.0_x64__qbz5n2kfra8p0\\lib\\distutils\\util.py',
+   'PYMODULE'),
+  ('doctest',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.8_3.8.2800.0_x64__qbz5n2kfra8p0\\lib\\doctest.py',
+   'PYMODULE'),
+  ('email',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.8_3.8.2800.0_x64__qbz5n2kfra8p0\\lib\\email\\__init__.py',
+   'PYMODULE'),
+  ('email._encoded_words',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.8_3.8.2800.0_x64__qbz5n2kfra8p0\\lib\\email\\_encoded_words.py',
+   'PYMODULE'),
+  ('email._header_value_parser',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.8_3.8.2800.0_x64__qbz5n2kfra8p0\\lib\\email\\_header_value_parser.py',
+   'PYMODULE'),
+  ('email._parseaddr',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.8_3.8.2800.0_x64__qbz5n2kfra8p0\\lib\\email\\_parseaddr.py',
+   'PYMODULE'),
+  ('email._policybase',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.8_3.8.2800.0_x64__qbz5n2kfra8p0\\lib\\email\\_policybase.py',
+   'PYMODULE'),
+  ('email.base64mime',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.8_3.8.2800.0_x64__qbz5n2kfra8p0\\lib\\email\\base64mime.py',
+   'PYMODULE'),
+  ('email.charset',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.8_3.8.2800.0_x64__qbz5n2kfra8p0\\lib\\email\\charset.py',
+   'PYMODULE'),
+  ('email.contentmanager',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.8_3.8.2800.0_x64__qbz5n2kfra8p0\\lib\\email\\contentmanager.py',
+   'PYMODULE'),
+  ('email.encoders',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.8_3.8.2800.0_x64__qbz5n2kfra8p0\\lib\\email\\encoders.py',
+   'PYMODULE'),
+  ('email.errors',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.8_3.8.2800.0_x64__qbz5n2kfra8p0\\lib\\email\\errors.py',
+   'PYMODULE'),
+  ('email.feedparser',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.8_3.8.2800.0_x64__qbz5n2kfra8p0\\lib\\email\\feedparser.py',
+   'PYMODULE'),
+  ('email.generator',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.8_3.8.2800.0_x64__qbz5n2kfra8p0\\lib\\email\\generator.py',
+   'PYMODULE'),
+  ('email.header',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.8_3.8.2800.0_x64__qbz5n2kfra8p0\\lib\\email\\header.py',
+   'PYMODULE'),
+  ('email.headerregistry',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.8_3.8.2800.0_x64__qbz5n2kfra8p0\\lib\\email\\headerregistry.py',
+   'PYMODULE'),
+  ('email.iterators',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.8_3.8.2800.0_x64__qbz5n2kfra8p0\\lib\\email\\iterators.py',
+   'PYMODULE'),
+  ('email.message',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.8_3.8.2800.0_x64__qbz5n2kfra8p0\\lib\\email\\message.py',
+   'PYMODULE'),
+  ('email.mime',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.8_3.8.2800.0_x64__qbz5n2kfra8p0\\lib\\email\\mime\\__init__.py',
+   'PYMODULE'),
+  ('email.mime.base',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.8_3.8.2800.0_x64__qbz5n2kfra8p0\\lib\\email\\mime\\base.py',
+   'PYMODULE'),
+  ('email.mime.multipart',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.8_3.8.2800.0_x64__qbz5n2kfra8p0\\lib\\email\\mime\\multipart.py',
+   'PYMODULE'),
+  ('email.mime.nonmultipart',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.8_3.8.2800.0_x64__qbz5n2kfra8p0\\lib\\email\\mime\\nonmultipart.py',
+   'PYMODULE'),
+  ('email.mime.text',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.8_3.8.2800.0_x64__qbz5n2kfra8p0\\lib\\email\\mime\\text.py',
+   'PYMODULE'),
+  ('email.parser',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.8_3.8.2800.0_x64__qbz5n2kfra8p0\\lib\\email\\parser.py',
+   'PYMODULE'),
+  ('email.policy',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.8_3.8.2800.0_x64__qbz5n2kfra8p0\\lib\\email\\policy.py',
+   'PYMODULE'),
+  ('email.quoprimime',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.8_3.8.2800.0_x64__qbz5n2kfra8p0\\lib\\email\\quoprimime.py',
+   'PYMODULE'),
+  ('email.utils',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.8_3.8.2800.0_x64__qbz5n2kfra8p0\\lib\\email\\utils.py',
+   'PYMODULE'),
+  ('fnmatch',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.8_3.8.2800.0_x64__qbz5n2kfra8p0\\lib\\fnmatch.py',
+   'PYMODULE'),
+  ('fractions',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.8_3.8.2800.0_x64__qbz5n2kfra8p0\\lib\\fractions.py',
+   'PYMODULE'),
+  ('ftplib',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.8_3.8.2800.0_x64__qbz5n2kfra8p0\\lib\\ftplib.py',
+   'PYMODULE'),
+  ('getopt',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.8_3.8.2800.0_x64__qbz5n2kfra8p0\\lib\\getopt.py',
+   'PYMODULE'),
+  ('getpass',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.8_3.8.2800.0_x64__qbz5n2kfra8p0\\lib\\getpass.py',
+   'PYMODULE'),
+  ('gettext',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.8_3.8.2800.0_x64__qbz5n2kfra8p0\\lib\\gettext.py',
+   'PYMODULE'),
+  ('glob',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.8_3.8.2800.0_x64__qbz5n2kfra8p0\\lib\\glob.py',
+   'PYMODULE'),
+  ('gzip',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.8_3.8.2800.0_x64__qbz5n2kfra8p0\\lib\\gzip.py',
+   'PYMODULE'),
+  ('hashlib',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.8_3.8.2800.0_x64__qbz5n2kfra8p0\\lib\\hashlib.py',
+   'PYMODULE'),
+  ('hmac',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.8_3.8.2800.0_x64__qbz5n2kfra8p0\\lib\\hmac.py',
+   'PYMODULE'),
+  ('html',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.8_3.8.2800.0_x64__qbz5n2kfra8p0\\lib\\html\\__init__.py',
+   'PYMODULE'),
+  ('html.entities',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.8_3.8.2800.0_x64__qbz5n2kfra8p0\\lib\\html\\entities.py',
+   'PYMODULE'),
+  ('http',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.8_3.8.2800.0_x64__qbz5n2kfra8p0\\lib\\http\\__init__.py',
+   'PYMODULE'),
+  ('http.client',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.8_3.8.2800.0_x64__qbz5n2kfra8p0\\lib\\http\\client.py',
+   'PYMODULE'),
+  ('http.cookiejar',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.8_3.8.2800.0_x64__qbz5n2kfra8p0\\lib\\http\\cookiejar.py',
+   'PYMODULE'),
+  ('http.server',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.8_3.8.2800.0_x64__qbz5n2kfra8p0\\lib\\http\\server.py',
+   'PYMODULE'),
+  ('imp',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.8_3.8.2800.0_x64__qbz5n2kfra8p0\\lib\\imp.py',
+   'PYMODULE'),
+  ('importlib',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.8_3.8.2800.0_x64__qbz5n2kfra8p0\\lib\\importlib\\__init__.py',
+   'PYMODULE'),
+  ('importlib._bootstrap',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.8_3.8.2800.0_x64__qbz5n2kfra8p0\\lib\\importlib\\_bootstrap.py',
+   'PYMODULE'),
+  ('importlib._bootstrap_external',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.8_3.8.2800.0_x64__qbz5n2kfra8p0\\lib\\importlib\\_bootstrap_external.py',
+   'PYMODULE'),
+  ('importlib.abc',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.8_3.8.2800.0_x64__qbz5n2kfra8p0\\lib\\importlib\\abc.py',
+   'PYMODULE'),
+  ('importlib.machinery',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.8_3.8.2800.0_x64__qbz5n2kfra8p0\\lib\\importlib\\machinery.py',
+   'PYMODULE'),
+  ('importlib.metadata',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.8_3.8.2800.0_x64__qbz5n2kfra8p0\\lib\\importlib\\metadata.py',
+   'PYMODULE'),
+  ('importlib.resources',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.8_3.8.2800.0_x64__qbz5n2kfra8p0\\lib\\importlib\\resources.py',
+   'PYMODULE'),
+  ('importlib.util',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.8_3.8.2800.0_x64__qbz5n2kfra8p0\\lib\\importlib\\util.py',
+   'PYMODULE'),
+  ('importlib_resources',
+   'C:\\Users\\magene\\OneDrive - NVIDIA Corporation\\Desktop\\Marian Nvidia '
+   'AutoTestResults\\pythonTestAutomation\\venv_pythonAuto\\lib\\site-packages\\importlib_resources\\__init__.py',
+   'PYMODULE'),
+  ('importlib_resources._adapters',
+   'C:\\Users\\magene\\OneDrive - NVIDIA Corporation\\Desktop\\Marian Nvidia '
+   'AutoTestResults\\pythonTestAutomation\\venv_pythonAuto\\lib\\site-packages\\importlib_resources\\_adapters.py',
+   'PYMODULE'),
+  ('importlib_resources._common',
+   'C:\\Users\\magene\\OneDrive - NVIDIA Corporation\\Desktop\\Marian Nvidia '
+   'AutoTestResults\\pythonTestAutomation\\venv_pythonAuto\\lib\\site-packages\\importlib_resources\\_common.py',
+   'PYMODULE'),
+  ('importlib_resources._compat',
+   'C:\\Users\\magene\\OneDrive - NVIDIA Corporation\\Desktop\\Marian Nvidia '
+   'AutoTestResults\\pythonTestAutomation\\venv_pythonAuto\\lib\\site-packages\\importlib_resources\\_compat.py',
+   'PYMODULE'),
+  ('importlib_resources._itertools',
+   'C:\\Users\\magene\\OneDrive - NVIDIA Corporation\\Desktop\\Marian Nvidia '
+   'AutoTestResults\\pythonTestAutomation\\venv_pythonAuto\\lib\\site-packages\\importlib_resources\\_itertools.py',
+   'PYMODULE'),
+  ('importlib_resources.abc',
+   'C:\\Users\\magene\\OneDrive - NVIDIA Corporation\\Desktop\\Marian Nvidia '
+   'AutoTestResults\\pythonTestAutomation\\venv_pythonAuto\\lib\\site-packages\\importlib_resources\\abc.py',
+   'PYMODULE'),
+  ('importlib_resources.readers',
+   'C:\\Users\\magene\\OneDrive - NVIDIA Corporation\\Desktop\\Marian Nvidia '
+   'AutoTestResults\\pythonTestAutomation\\venv_pythonAuto\\lib\\site-packages\\importlib_resources\\readers.py',
+   'PYMODULE'),
+  ('inspect',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.8_3.8.2800.0_x64__qbz5n2kfra8p0\\lib\\inspect.py',
+   'PYMODULE'),
+  ('json',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.8_3.8.2800.0_x64__qbz5n2kfra8p0\\lib\\json\\__init__.py',
+   'PYMODULE'),
+  ('json.decoder',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.8_3.8.2800.0_x64__qbz5n2kfra8p0\\lib\\json\\decoder.py',
+   'PYMODULE'),
+  ('json.encoder',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.8_3.8.2800.0_x64__qbz5n2kfra8p0\\lib\\json\\encoder.py',
+   'PYMODULE'),
+  ('json.scanner',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.8_3.8.2800.0_x64__qbz5n2kfra8p0\\lib\\json\\scanner.py',
+   'PYMODULE'),
+  ('kiwisolver',
+   'C:\\Users\\magene\\OneDrive - NVIDIA Corporation\\Desktop\\Marian Nvidia '
+   'AutoTestResults\\pythonTestAutomation\\venv_pythonAuto\\lib\\site-packages\\kiwisolver\\__init__.py',
+   'PYMODULE'),
+  ('kiwisolver.exceptions',
+   'C:\\Users\\magene\\OneDrive - NVIDIA Corporation\\Desktop\\Marian Nvidia '
+   'AutoTestResults\\pythonTestAutomation\\venv_pythonAuto\\lib\\site-packages\\kiwisolver\\exceptions.py',
+   'PYMODULE'),
+  ('logging',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.8_3.8.2800.0_x64__qbz5n2kfra8p0\\lib\\logging\\__init__.py',
+   'PYMODULE'),
+  ('lzma',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.8_3.8.2800.0_x64__qbz5n2kfra8p0\\lib\\lzma.py',
+   'PYMODULE'),
+  ('matplotlib',
+   'C:\\Users\\magene\\OneDrive - NVIDIA Corporation\\Desktop\\Marian Nvidia '
+   'AutoTestResults\\pythonTestAutomation\\venv_pythonAuto\\lib\\site-packages\\matplotlib\\__init__.py',
+   'PYMODULE'),
+  ('matplotlib._afm',
+   'C:\\Users\\magene\\OneDrive - NVIDIA Corporation\\Desktop\\Marian Nvidia '
+   'AutoTestResults\\pythonTestAutomation\\venv_pythonAuto\\lib\\site-packages\\matplotlib\\_afm.py',
+   'PYMODULE'),
+  ('matplotlib._api',
+   'C:\\Users\\magene\\OneDrive - NVIDIA Corporation\\Desktop\\Marian Nvidia '
+   'AutoTestResults\\pythonTestAutomation\\venv_pythonAuto\\lib\\site-packages\\matplotlib\\_api\\__init__.py',
+   'PYMODULE'),
+  ('matplotlib._api.deprecation',
+   'C:\\Users\\magene\\OneDrive - NVIDIA Corporation\\Desktop\\Marian Nvidia '
+   'AutoTestResults\\pythonTestAutomation\\venv_pythonAuto\\lib\\site-packages\\matplotlib\\_api\\deprecation.py',
+   'PYMODULE'),
+  ('matplotlib._blocking_input',
+   'C:\\Users\\magene\\OneDrive - NVIDIA Corporation\\Desktop\\Marian Nvidia '
+   'AutoTestResults\\pythonTestAutomation\\venv_pythonAuto\\lib\\site-packages\\matplotlib\\_blocking_input.py',
+   'PYMODULE'),
+  ('matplotlib._cm',
+   'C:\\Users\\magene\\OneDrive - NVIDIA Corporation\\Desktop\\Marian Nvidia '
+   'AutoTestResults\\pythonTestAutomation\\venv_pythonAuto\\lib\\site-packages\\matplotlib\\_cm.py',
+   'PYMODULE'),
+  ('matplotlib._cm_listed',
+   'C:\\Users\\magene\\OneDrive - NVIDIA Corporation\\Desktop\\Marian Nvidia '
+   'AutoTestResults\\pythonTestAutomation\\venv_pythonAuto\\lib\\site-packages\\matplotlib\\_cm_listed.py',
+   'PYMODULE'),
+  ('matplotlib._color_data',
+   'C:\\Users\\magene\\OneDrive - NVIDIA Corporation\\Desktop\\Marian Nvidia '
+   'AutoTestResults\\pythonTestAutomation\\venv_pythonAuto\\lib\\site-packages\\matplotlib\\_color_data.py',
+   'PYMODULE'),
+  ('matplotlib._constrained_layout',
+   'C:\\Users\\magene\\OneDrive - NVIDIA Corporation\\Desktop\\Marian Nvidia '
+   'AutoTestResults\\pythonTestAutomation\\venv_pythonAuto\\lib\\site-packages\\matplotlib\\_constrained_layout.py',
+   'PYMODULE'),
+  ('matplotlib._docstring',
+   'C:\\Users\\magene\\OneDrive - NVIDIA Corporation\\Desktop\\Marian Nvidia '
+   'AutoTestResults\\pythonTestAutomation\\venv_pythonAuto\\lib\\site-packages\\matplotlib\\_docstring.py',
+   'PYMODULE'),
+  ('matplotlib._enums',
+   'C:\\Users\\magene\\OneDrive - NVIDIA Corporation\\Desktop\\Marian Nvidia '
+   'AutoTestResults\\pythonTestAutomation\\venv_pythonAuto\\lib\\site-packages\\matplotlib\\_enums.py',
+   'PYMODULE'),
+  ('matplotlib._fontconfig_pattern',
+   'C:\\Users\\magene\\OneDrive - NVIDIA Corporation\\Desktop\\Marian Nvidia '
+   'AutoTestResults\\pythonTestAutomation\\venv_pythonAuto\\lib\\site-packages\\matplotlib\\_fontconfig_pattern.py',
+   'PYMODULE'),
+  ('matplotlib._layoutgrid',
+   'C:\\Users\\magene\\OneDrive - NVIDIA Corporation\\Desktop\\Marian Nvidia '
+   'AutoTestResults\\pythonTestAutomation\\venv_pythonAuto\\lib\\site-packages\\matplotlib\\_layoutgrid.py',
+   'PYMODULE'),
+  ('matplotlib._mathtext',
+   'C:\\Users\\magene\\OneDrive - NVIDIA Corporation\\Desktop\\Marian Nvidia '
+   'AutoTestResults\\pythonTestAutomation\\venv_pythonAuto\\lib\\site-packages\\matplotlib\\_mathtext.py',
+   'PYMODULE'),
+  ('matplotlib._mathtext_data',
+   'C:\\Users\\magene\\OneDrive - NVIDIA Corporation\\Desktop\\Marian Nvidia '
+   'AutoTestResults\\pythonTestAutomation\\venv_pythonAuto\\lib\\site-packages\\matplotlib\\_mathtext_data.py',
+   'PYMODULE'),
+  ('matplotlib._pylab_helpers',
+   'C:\\Users\\magene\\OneDrive - NVIDIA Corporation\\Desktop\\Marian Nvidia '
+   'AutoTestResults\\pythonTestAutomation\\venv_pythonAuto\\lib\\site-packages\\matplotlib\\_pylab_helpers.py',
+   'PYMODULE'),
+  ('matplotlib._text_helpers',
+   'C:\\Users\\magene\\OneDrive - NVIDIA Corporation\\Desktop\\Marian Nvidia '
+   'AutoTestResults\\pythonTestAutomation\\venv_pythonAuto\\lib\\site-packages\\matplotlib\\_text_helpers.py',
+   'PYMODULE'),
+  ('matplotlib._tight_bbox',
+   'C:\\Users\\magene\\OneDrive - NVIDIA Corporation\\Desktop\\Marian Nvidia '
+   'AutoTestResults\\pythonTestAutomation\\venv_pythonAuto\\lib\\site-packages\\matplotlib\\_tight_bbox.py',
+   'PYMODULE'),
+  ('matplotlib._tight_layout',
+   'C:\\Users\\magene\\OneDrive - NVIDIA Corporation\\Desktop\\Marian Nvidia '
+   'AutoTestResults\\pythonTestAutomation\\venv_pythonAuto\\lib\\site-packages\\matplotlib\\_tight_layout.py',
+   'PYMODULE'),
+  ('matplotlib._version',
+   'C:\\Users\\magene\\OneDrive - NVIDIA Corporation\\Desktop\\Marian Nvidia '
+   'AutoTestResults\\pythonTestAutomation\\venv_pythonAuto\\lib\\site-packages\\matplotlib\\_version.py',
+   'PYMODULE'),
+  ('matplotlib.artist',
+   'C:\\Users\\magene\\OneDrive - NVIDIA Corporation\\Desktop\\Marian Nvidia '
+   'AutoTestResults\\pythonTestAutomation\\venv_pythonAuto\\lib\\site-packages\\matplotlib\\artist.py',
+   'PYMODULE'),
+  ('matplotlib.axes',
+   'C:\\Users\\magene\\OneDrive - NVIDIA Corporation\\Desktop\\Marian Nvidia '
+   'AutoTestResults\\pythonTestAutomation\\venv_pythonAuto\\lib\\site-packages\\matplotlib\\axes\\__init__.py',
+   'PYMODULE'),
+  ('matplotlib.axes._axes',
+   'C:\\Users\\magene\\OneDrive - NVIDIA Corporation\\Desktop\\Marian Nvidia '
+   'AutoTestResults\\pythonTestAutomation\\venv_pythonAuto\\lib\\site-packages\\matplotlib\\axes\\_axes.py',
+   'PYMODULE'),
+  ('matplotlib.axes._base',
+   'C:\\Users\\magene\\OneDrive - NVIDIA Corporation\\Desktop\\Marian Nvidia '
+   'AutoTestResults\\pythonTestAutomation\\venv_pythonAuto\\lib\\site-packages\\matplotlib\\axes\\_base.py',
+   'PYMODULE'),
+  ('matplotlib.axes._secondary_axes',
+   'C:\\Users\\magene\\OneDrive - NVIDIA Corporation\\Desktop\\Marian Nvidia '
+   'AutoTestResults\\pythonTestAutomation\\venv_pythonAuto\\lib\\site-packages\\matplotlib\\axes\\_secondary_axes.py',
+   'PYMODULE'),
+  ('matplotlib.axis',
+   'C:\\Users\\magene\\OneDrive - NVIDIA Corporation\\Desktop\\Marian Nvidia '
+   'AutoTestResults\\pythonTestAutomation\\venv_pythonAuto\\lib\\site-packages\\matplotlib\\axis.py',
+   'PYMODULE'),
+  ('matplotlib.backend_bases',
+   'C:\\Users\\magene\\OneDrive - NVIDIA Corporation\\Desktop\\Marian Nvidia '
+   'AutoTestResults\\pythonTestAutomation\\venv_pythonAuto\\lib\\site-packages\\matplotlib\\backend_bases.py',
+   'PYMODULE'),
+  ('matplotlib.backend_managers',
+   'C:\\Users\\magene\\OneDrive - NVIDIA Corporation\\Desktop\\Marian Nvidia '
+   'AutoTestResults\\pythonTestAutomation\\venv_pythonAuto\\lib\\site-packages\\matplotlib\\backend_managers.py',
+   'PYMODULE'),
+  ('matplotlib.backend_tools',
+   'C:\\Users\\magene\\OneDrive - NVIDIA Corporation\\Desktop\\Marian Nvidia '
+   'AutoTestResults\\pythonTestAutomation\\venv_pythonAuto\\lib\\site-packages\\matplotlib\\backend_tools.py',
+   'PYMODULE'),
+  ('matplotlib.backends',
+   'C:\\Users\\magene\\OneDrive - NVIDIA Corporation\\Desktop\\Marian Nvidia '
+   'AutoTestResults\\pythonTestAutomation\\venv_pythonAuto\\lib\\site-packages\\matplotlib\\backends\\__init__.py',
+   'PYMODULE'),
+  ('matplotlib.backends._backend_tk',
+   'C:\\Users\\magene\\OneDrive - NVIDIA Corporation\\Desktop\\Marian Nvidia '
+   'AutoTestResults\\pythonTestAutomation\\venv_pythonAuto\\lib\\site-packages\\matplotlib\\backends\\_backend_tk.py',
+   'PYMODULE'),
+  ('matplotlib.backends.backend_agg',
+   'C:\\Users\\magene\\OneDrive - NVIDIA Corporation\\Desktop\\Marian Nvidia '
+   'AutoTestResults\\pythonTestAutomation\\venv_pythonAuto\\lib\\site-packages\\matplotlib\\backends\\backend_agg.py',
+   'PYMODULE'),
+  ('matplotlib.backends.backend_tkagg',
+   'C:\\Users\\magene\\OneDrive - NVIDIA Corporation\\Desktop\\Marian Nvidia '
+   'AutoTestResults\\pythonTestAutomation\\venv_pythonAuto\\lib\\site-packages\\matplotlib\\backends\\backend_tkagg.py',
+   'PYMODULE'),
+  ('matplotlib.backends.backend_webagg',
+   'C:\\Users\\magene\\OneDrive - NVIDIA Corporation\\Desktop\\Marian Nvidia '
+   'AutoTestResults\\pythonTestAutomation\\venv_pythonAuto\\lib\\site-packages\\matplotlib\\backends\\backend_webagg.py',
+   'PYMODULE'),
+  ('matplotlib.backends.backend_webagg_core',
+   'C:\\Users\\magene\\OneDrive - NVIDIA Corporation\\Desktop\\Marian Nvidia '
+   'AutoTestResults\\pythonTestAutomation\\venv_pythonAuto\\lib\\site-packages\\matplotlib\\backends\\backend_webagg_core.py',
+   'PYMODULE'),
+  ('matplotlib.bezier',
+   'C:\\Users\\magene\\OneDrive - NVIDIA Corporation\\Desktop\\Marian Nvidia '
+   'AutoTestResults\\pythonTestAutomation\\venv_pythonAuto\\lib\\site-packages\\matplotlib\\bezier.py',
+   'PYMODULE'),
+  ('matplotlib.category',
+   'C:\\Users\\magene\\OneDrive - NVIDIA Corporation\\Desktop\\Marian Nvidia '
+   'AutoTestResults\\pythonTestAutomation\\venv_pythonAuto\\lib\\site-packages\\matplotlib\\category.py',
+   'PYMODULE'),
+  ('matplotlib.cbook',
+   'C:\\Users\\magene\\OneDrive - NVIDIA Corporation\\Desktop\\Marian Nvidia '
+   'AutoTestResults\\pythonTestAutomation\\venv_pythonAuto\\lib\\site-packages\\matplotlib\\cbook\\__init__.py',
+   'PYMODULE'),
+  ('matplotlib.cm',
+   'C:\\Users\\magene\\OneDrive - NVIDIA Corporation\\Desktop\\Marian Nvidia '
+   'AutoTestResults\\pythonTestAutomation\\venv_pythonAuto\\lib\\site-packages\\matplotlib\\cm.py',
+   'PYMODULE'),
+  ('matplotlib.collections',
+   'C:\\Users\\magene\\OneDrive - NVIDIA Corporation\\Desktop\\Marian Nvidia '
+   'AutoTestResults\\pythonTestAutomation\\venv_pythonAuto\\lib\\site-packages\\matplotlib\\collections.py',
+   'PYMODULE'),
+  ('matplotlib.colorbar',
+   'C:\\Users\\magene\\OneDrive - NVIDIA Corporation\\Desktop\\Marian Nvidia '
+   'AutoTestResults\\pythonTestAutomation\\venv_pythonAuto\\lib\\site-packages\\matplotlib\\colorbar.py',
+   'PYMODULE'),
+  ('matplotlib.colors',
+   'C:\\Users\\magene\\OneDrive - NVIDIA Corporation\\Desktop\\Marian Nvidia '
+   'AutoTestResults\\pythonTestAutomation\\venv_pythonAuto\\lib\\site-packages\\matplotlib\\colors.py',
+   'PYMODULE'),
+  ('matplotlib.container',
+   'C:\\Users\\magene\\OneDrive - NVIDIA Corporation\\Desktop\\Marian Nvidia '
+   'AutoTestResults\\pythonTestAutomation\\venv_pythonAuto\\lib\\site-packages\\matplotlib\\container.py',
+   'PYMODULE'),
+  ('matplotlib.contour',
+   'C:\\Users\\magene\\OneDrive - NVIDIA Corporation\\Desktop\\Marian Nvidia '
+   'AutoTestResults\\pythonTestAutomation\\venv_pythonAuto\\lib\\site-packages\\matplotlib\\contour.py',
+   'PYMODULE'),
+  ('matplotlib.dates',
+   'C:\\Users\\magene\\OneDrive - NVIDIA Corporation\\Desktop\\Marian Nvidia '
+   'AutoTestResults\\pythonTestAutomation\\venv_pythonAuto\\lib\\site-packages\\matplotlib\\dates.py',
+   'PYMODULE'),
+  ('matplotlib.dviread',
+   'C:\\Users\\magene\\OneDrive - NVIDIA Corporation\\Desktop\\Marian Nvidia '
+   'AutoTestResults\\pythonTestAutomation\\venv_pythonAuto\\lib\\site-packages\\matplotlib\\dviread.py',
+   'PYMODULE'),
+  ('matplotlib.figure',
+   'C:\\Users\\magene\\OneDrive - NVIDIA Corporation\\Desktop\\Marian Nvidia '
+   'AutoTestResults\\pythonTestAutomation\\venv_pythonAuto\\lib\\site-packages\\matplotlib\\figure.py',
+   'PYMODULE'),
+  ('matplotlib.font_manager',
+   'C:\\Users\\magene\\OneDrive - NVIDIA Corporation\\Desktop\\Marian Nvidia '
+   'AutoTestResults\\pythonTestAutomation\\venv_pythonAuto\\lib\\site-packages\\matplotlib\\font_manager.py',
+   'PYMODULE'),
+  ('matplotlib.gridspec',
+   'C:\\Users\\magene\\OneDrive - NVIDIA Corporation\\Desktop\\Marian Nvidia '
+   'AutoTestResults\\pythonTestAutomation\\venv_pythonAuto\\lib\\site-packages\\matplotlib\\gridspec.py',
+   'PYMODULE'),
+  ('matplotlib.hatch',
+   'C:\\Users\\magene\\OneDrive - NVIDIA Corporation\\Desktop\\Marian Nvidia '
+   'AutoTestResults\\pythonTestAutomation\\venv_pythonAuto\\lib\\site-packages\\matplotlib\\hatch.py',
+   'PYMODULE'),
+  ('matplotlib.image',
+   'C:\\Users\\magene\\OneDrive - NVIDIA Corporation\\Desktop\\Marian Nvidia '
+   'AutoTestResults\\pythonTestAutomation\\venv_pythonAuto\\lib\\site-packages\\matplotlib\\image.py',
+   'PYMODULE'),
+  ('matplotlib.layout_engine',
+   'C:\\Users\\magene\\OneDrive - NVIDIA Corporation\\Desktop\\Marian Nvidia '
+   'AutoTestResults\\pythonTestAutomation\\venv_pythonAuto\\lib\\site-packages\\matplotlib\\layout_engine.py',
+   'PYMODULE'),
+  ('matplotlib.legend',
+   'C:\\Users\\magene\\OneDrive - NVIDIA Corporation\\Desktop\\Marian Nvidia '
+   'AutoTestResults\\pythonTestAutomation\\venv_pythonAuto\\lib\\site-packages\\matplotlib\\legend.py',
+   'PYMODULE'),
+  ('matplotlib.legend_handler',
+   'C:\\Users\\magene\\OneDrive - NVIDIA Corporation\\Desktop\\Marian Nvidia '
+   'AutoTestResults\\pythonTestAutomation\\venv_pythonAuto\\lib\\site-packages\\matplotlib\\legend_handler.py',
+   'PYMODULE'),
+  ('matplotlib.lines',
+   'C:\\Users\\magene\\OneDrive - NVIDIA Corporation\\Desktop\\Marian Nvidia '
+   'AutoTestResults\\pythonTestAutomation\\venv_pythonAuto\\lib\\site-packages\\matplotlib\\lines.py',
+   'PYMODULE'),
+  ('matplotlib.markers',
+   'C:\\Users\\magene\\OneDrive - NVIDIA Corporation\\Desktop\\Marian Nvidia '
+   'AutoTestResults\\pythonTestAutomation\\venv_pythonAuto\\lib\\site-packages\\matplotlib\\markers.py',
+   'PYMODULE'),
+  ('matplotlib.mathtext',
+   'C:\\Users\\magene\\OneDrive - NVIDIA Corporation\\Desktop\\Marian Nvidia '
+   'AutoTestResults\\pythonTestAutomation\\venv_pythonAuto\\lib\\site-packages\\matplotlib\\mathtext.py',
+   'PYMODULE'),
+  ('matplotlib.mlab',
+   'C:\\Users\\magene\\OneDrive - NVIDIA Corporation\\Desktop\\Marian Nvidia '
+   'AutoTestResults\\pythonTestAutomation\\venv_pythonAuto\\lib\\site-packages\\matplotlib\\mlab.py',
+   'PYMODULE'),
+  ('matplotlib.offsetbox',
+   'C:\\Users\\magene\\OneDrive - NVIDIA Corporation\\Desktop\\Marian Nvidia '
+   'AutoTestResults\\pythonTestAutomation\\venv_pythonAuto\\lib\\site-packages\\matplotlib\\offsetbox.py',
+   'PYMODULE'),
+  ('matplotlib.patches',
+   'C:\\Users\\magene\\OneDrive - NVIDIA Corporation\\Desktop\\Marian Nvidia '
+   'AutoTestResults\\pythonTestAutomation\\venv_pythonAuto\\lib\\site-packages\\matplotlib\\patches.py',
+   'PYMODULE'),
+  ('matplotlib.path',
+   'C:\\Users\\magene\\OneDrive - NVIDIA Corporation\\Desktop\\Marian Nvidia '
+   'AutoTestResults\\pythonTestAutomation\\venv_pythonAuto\\lib\\site-packages\\matplotlib\\path.py',
+   'PYMODULE'),
+  ('matplotlib.patheffects',
+   'C:\\Users\\magene\\OneDrive - NVIDIA Corporation\\Desktop\\Marian Nvidia '
+   'AutoTestResults\\pythonTestAutomation\\venv_pythonAuto\\lib\\site-packages\\matplotlib\\patheffects.py',
+   'PYMODULE'),
+  ('matplotlib.projections',
+   'C:\\Users\\magene\\OneDrive - NVIDIA Corporation\\Desktop\\Marian Nvidia '
+   'AutoTestResults\\pythonTestAutomation\\venv_pythonAuto\\lib\\site-packages\\matplotlib\\projections\\__init__.py',
+   'PYMODULE'),
+  ('matplotlib.projections.geo',
+   'C:\\Users\\magene\\OneDrive - NVIDIA Corporation\\Desktop\\Marian Nvidia '
+   'AutoTestResults\\pythonTestAutomation\\venv_pythonAuto\\lib\\site-packages\\matplotlib\\projections\\geo.py',
+   'PYMODULE'),
+  ('matplotlib.projections.polar',
+   'C:\\Users\\magene\\OneDrive - NVIDIA Corporation\\Desktop\\Marian Nvidia '
+   'AutoTestResults\\pythonTestAutomation\\venv_pythonAuto\\lib\\site-packages\\matplotlib\\projections\\polar.py',
+   'PYMODULE'),
+  ('matplotlib.pyplot',
+   'C:\\Users\\magene\\OneDrive - NVIDIA Corporation\\Desktop\\Marian Nvidia '
+   'AutoTestResults\\pythonTestAutomation\\venv_pythonAuto\\lib\\site-packages\\matplotlib\\pyplot.py',
+   'PYMODULE'),
+  ('matplotlib.quiver',
+   'C:\\Users\\magene\\OneDrive - NVIDIA Corporation\\Desktop\\Marian Nvidia '
+   'AutoTestResults\\pythonTestAutomation\\venv_pythonAuto\\lib\\site-packages\\matplotlib\\quiver.py',
+   'PYMODULE'),
+  ('matplotlib.rcsetup',
+   'C:\\Users\\magene\\OneDrive - NVIDIA Corporation\\Desktop\\Marian Nvidia '
+   'AutoTestResults\\pythonTestAutomation\\venv_pythonAuto\\lib\\site-packages\\matplotlib\\rcsetup.py',
+   'PYMODULE'),
+  ('matplotlib.scale',
+   'C:\\Users\\magene\\OneDrive - NVIDIA Corporation\\Desktop\\Marian Nvidia '
+   'AutoTestResults\\pythonTestAutomation\\venv_pythonAuto\\lib\\site-packages\\matplotlib\\scale.py',
+   'PYMODULE'),
+  ('matplotlib.spines',
+   'C:\\Users\\magene\\OneDrive - NVIDIA Corporation\\Desktop\\Marian Nvidia '
+   'AutoTestResults\\pythonTestAutomation\\venv_pythonAuto\\lib\\site-packages\\matplotlib\\spines.py',
+   'PYMODULE'),
+  ('matplotlib.stackplot',
+   'C:\\Users\\magene\\OneDrive - NVIDIA Corporation\\Desktop\\Marian Nvidia '
+   'AutoTestResults\\pythonTestAutomation\\venv_pythonAuto\\lib\\site-packages\\matplotlib\\stackplot.py',
+   'PYMODULE'),
+  ('matplotlib.streamplot',
+   'C:\\Users\\magene\\OneDrive - NVIDIA Corporation\\Desktop\\Marian Nvidia '
+   'AutoTestResults\\pythonTestAutomation\\venv_pythonAuto\\lib\\site-packages\\matplotlib\\streamplot.py',
+   'PYMODULE'),
+  ('matplotlib.style',
+   'C:\\Users\\magene\\OneDrive - NVIDIA Corporation\\Desktop\\Marian Nvidia '
+   'AutoTestResults\\pythonTestAutomation\\venv_pythonAuto\\lib\\site-packages\\matplotlib\\style\\__init__.py',
+   'PYMODULE'),
+  ('matplotlib.style.core',
+   'C:\\Users\\magene\\OneDrive - NVIDIA Corporation\\Desktop\\Marian Nvidia '
+   'AutoTestResults\\pythonTestAutomation\\venv_pythonAuto\\lib\\site-packages\\matplotlib\\style\\core.py',
+   'PYMODULE'),
+  ('matplotlib.table',
+   'C:\\Users\\magene\\OneDrive - NVIDIA Corporation\\Desktop\\Marian Nvidia '
+   'AutoTestResults\\pythonTestAutomation\\venv_pythonAuto\\lib\\site-packages\\matplotlib\\table.py',
+   'PYMODULE'),
+  ('matplotlib.texmanager',
+   'C:\\Users\\magene\\OneDrive - NVIDIA Corporation\\Desktop\\Marian Nvidia '
+   'AutoTestResults\\pythonTestAutomation\\venv_pythonAuto\\lib\\site-packages\\matplotlib\\texmanager.py',
+   'PYMODULE'),
+  ('matplotlib.text',
+   'C:\\Users\\magene\\OneDrive - NVIDIA Corporation\\Desktop\\Marian Nvidia '
+   'AutoTestResults\\pythonTestAutomation\\venv_pythonAuto\\lib\\site-packages\\matplotlib\\text.py',
+   'PYMODULE'),
+  ('matplotlib.textpath',
+   'C:\\Users\\magene\\OneDrive - NVIDIA Corporation\\Desktop\\Marian Nvidia '
+   'AutoTestResults\\pythonTestAutomation\\venv_pythonAuto\\lib\\site-packages\\matplotlib\\textpath.py',
+   'PYMODULE'),
+  ('matplotlib.ticker',
+   'C:\\Users\\magene\\OneDrive - NVIDIA Corporation\\Desktop\\Marian Nvidia '
+   'AutoTestResults\\pythonTestAutomation\\venv_pythonAuto\\lib\\site-packages\\matplotlib\\ticker.py',
+   'PYMODULE'),
+  ('matplotlib.transforms',
+   'C:\\Users\\magene\\OneDrive - NVIDIA Corporation\\Desktop\\Marian Nvidia '
+   'AutoTestResults\\pythonTestAutomation\\venv_pythonAuto\\lib\\site-packages\\matplotlib\\transforms.py',
+   'PYMODULE'),
+  ('matplotlib.tri',
+   'C:\\Users\\magene\\OneDrive - NVIDIA Corporation\\Desktop\\Marian Nvidia '
+   'AutoTestResults\\pythonTestAutomation\\venv_pythonAuto\\lib\\site-packages\\matplotlib\\tri\\__init__.py',
+   'PYMODULE'),
+  ('matplotlib.tri._triangulation',
+   'C:\\Users\\magene\\OneDrive - NVIDIA Corporation\\Desktop\\Marian Nvidia '
+   'AutoTestResults\\pythonTestAutomation\\venv_pythonAuto\\lib\\site-packages\\matplotlib\\tri\\_triangulation.py',
+   'PYMODULE'),
+  ('matplotlib.tri._tricontour',
+   'C:\\Users\\magene\\OneDrive - NVIDIA Corporation\\Desktop\\Marian Nvidia '
+   'AutoTestResults\\pythonTestAutomation\\venv_pythonAuto\\lib\\site-packages\\matplotlib\\tri\\_tricontour.py',
+   'PYMODULE'),
+  ('matplotlib.tri._trifinder',
+   'C:\\Users\\magene\\OneDrive - NVIDIA Corporation\\Desktop\\Marian Nvidia '
+   'AutoTestResults\\pythonTestAutomation\\venv_pythonAuto\\lib\\site-packages\\matplotlib\\tri\\_trifinder.py',
+   'PYMODULE'),
+  ('matplotlib.tri._triinterpolate',
+   'C:\\Users\\magene\\OneDrive - NVIDIA Corporation\\Desktop\\Marian Nvidia '
+   'AutoTestResults\\pythonTestAutomation\\venv_pythonAuto\\lib\\site-packages\\matplotlib\\tri\\_triinterpolate.py',
+   'PYMODULE'),
+  ('matplotlib.tri._tripcolor',
+   'C:\\Users\\magene\\OneDrive - NVIDIA Corporation\\Desktop\\Marian Nvidia '
+   'AutoTestResults\\pythonTestAutomation\\venv_pythonAuto\\lib\\site-packages\\matplotlib\\tri\\_tripcolor.py',
+   'PYMODULE'),
+  ('matplotlib.tri._triplot',
+   'C:\\Users\\magene\\OneDrive - NVIDIA Corporation\\Desktop\\Marian Nvidia '
+   'AutoTestResults\\pythonTestAutomation\\venv_pythonAuto\\lib\\site-packages\\matplotlib\\tri\\_triplot.py',
+   'PYMODULE'),
+  ('matplotlib.tri._trirefine',
+   'C:\\Users\\magene\\OneDrive - NVIDIA Corporation\\Desktop\\Marian Nvidia '
+   'AutoTestResults\\pythonTestAutomation\\venv_pythonAuto\\lib\\site-packages\\matplotlib\\tri\\_trirefine.py',
+   'PYMODULE'),
+  ('matplotlib.tri._tritools',
+   'C:\\Users\\magene\\OneDrive - NVIDIA Corporation\\Desktop\\Marian Nvidia '
+   'AutoTestResults\\pythonTestAutomation\\venv_pythonAuto\\lib\\site-packages\\matplotlib\\tri\\_tritools.py',
+   'PYMODULE'),
+  ('matplotlib.units',
+   'C:\\Users\\magene\\OneDrive - NVIDIA Corporation\\Desktop\\Marian Nvidia '
+   'AutoTestResults\\pythonTestAutomation\\venv_pythonAuto\\lib\\site-packages\\matplotlib\\units.py',
+   'PYMODULE'),
+  ('matplotlib.widgets',
+   'C:\\Users\\magene\\OneDrive - NVIDIA Corporation\\Desktop\\Marian Nvidia '
+   'AutoTestResults\\pythonTestAutomation\\venv_pythonAuto\\lib\\site-packages\\matplotlib\\widgets.py',
+   'PYMODULE'),
+  ('mimetypes',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.8_3.8.2800.0_x64__qbz5n2kfra8p0\\lib\\mimetypes.py',
+   'PYMODULE'),
+  ('mouseinfo',
+   'C:\\Users\\magene\\OneDrive - NVIDIA Corporation\\Desktop\\Marian Nvidia '
+   'AutoTestResults\\pythonTestAutomation\\venv_pythonAuto\\lib\\site-packages\\mouseinfo\\__init__.py',
+   'PYMODULE'),
+  ('mpl_toolkits',
+   'C:\\Users\\magene\\OneDrive - NVIDIA Corporation\\Desktop\\Marian Nvidia '
+   'AutoTestResults\\pythonTestAutomation\\venv_pythonAuto\\lib\\site-packages\\mpl_toolkits\\__init__.py',
+   'PYMODULE'),
+  ('mpl_toolkits.mplot3d',
+   'C:\\Users\\magene\\OneDrive - NVIDIA Corporation\\Desktop\\Marian Nvidia '
+   'AutoTestResults\\pythonTestAutomation\\venv_pythonAuto\\lib\\site-packages\\mpl_toolkits\\mplot3d\\__init__.py',
+   'PYMODULE'),
+  ('mpl_toolkits.mplot3d.art3d',
+   'C:\\Users\\magene\\OneDrive - NVIDIA Corporation\\Desktop\\Marian Nvidia '
+   'AutoTestResults\\pythonTestAutomation\\venv_pythonAuto\\lib\\site-packages\\mpl_toolkits\\mplot3d\\art3d.py',
+   'PYMODULE'),
+  ('mpl_toolkits.mplot3d.axes3d',
+   'C:\\Users\\magene\\OneDrive - NVIDIA Corporation\\Desktop\\Marian Nvidia '
+   'AutoTestResults\\pythonTestAutomation\\venv_pythonAuto\\lib\\site-packages\\mpl_toolkits\\mplot3d\\axes3d.py',
+   'PYMODULE'),
+  ('mpl_toolkits.mplot3d.axis3d',
+   'C:\\Users\\magene\\OneDrive - NVIDIA Corporation\\Desktop\\Marian Nvidia '
+   'AutoTestResults\\pythonTestAutomation\\venv_pythonAuto\\lib\\site-packages\\mpl_toolkits\\mplot3d\\axis3d.py',
+   'PYMODULE'),
+  ('mpl_toolkits.mplot3d.proj3d',
+   'C:\\Users\\magene\\OneDrive - NVIDIA Corporation\\Desktop\\Marian Nvidia '
+   'AutoTestResults\\pythonTestAutomation\\venv_pythonAuto\\lib\\site-packages\\mpl_toolkits\\mplot3d\\proj3d.py',
+   'PYMODULE'),
+  ('mss',
+   'C:\\Users\\magene\\OneDrive - NVIDIA Corporation\\Desktop\\Marian Nvidia '
+   'AutoTestResults\\pythonTestAutomation\\venv_pythonAuto\\lib\\site-packages\\mss\\__init__.py',
+   'PYMODULE'),
+  ('mss.base',
+   'C:\\Users\\magene\\OneDrive - NVIDIA Corporation\\Desktop\\Marian Nvidia '
+   'AutoTestResults\\pythonTestAutomation\\venv_pythonAuto\\lib\\site-packages\\mss\\base.py',
+   'PYMODULE'),
+  ('mss.darwin',
+   'C:\\Users\\magene\\OneDrive - NVIDIA Corporation\\Desktop\\Marian Nvidia '
+   'AutoTestResults\\pythonTestAutomation\\venv_pythonAuto\\lib\\site-packages\\mss\\darwin.py',
+   'PYMODULE'),
+  ('mss.exception',
+   'C:\\Users\\magene\\OneDrive - NVIDIA Corporation\\Desktop\\Marian Nvidia '
+   'AutoTestResults\\pythonTestAutomation\\venv_pythonAuto\\lib\\site-packages\\mss\\exception.py',
+   'PYMODULE'),
+  ('mss.factory',
+   'C:\\Users\\magene\\OneDrive - NVIDIA Corporation\\Desktop\\Marian Nvidia '
+   'AutoTestResults\\pythonTestAutomation\\venv_pythonAuto\\lib\\site-packages\\mss\\factory.py',
+   'PYMODULE'),
+  ('mss.linux',
+   'C:\\Users\\magene\\OneDrive - NVIDIA Corporation\\Desktop\\Marian Nvidia '
+   'AutoTestResults\\pythonTestAutomation\\venv_pythonAuto\\lib\\site-packages\\mss\\linux.py',
+   'PYMODULE'),
+  ('mss.models',
+   'C:\\Users\\magene\\OneDrive - NVIDIA Corporation\\Desktop\\Marian Nvidia '
+   'AutoTestResults\\pythonTestAutomation\\venv_pythonAuto\\lib\\site-packages\\mss\\models.py',
+   'PYMODULE'),
+  ('mss.screenshot',
+   'C:\\Users\\magene\\OneDrive - NVIDIA Corporation\\Desktop\\Marian Nvidia '
+   'AutoTestResults\\pythonTestAutomation\\venv_pythonAuto\\lib\\site-packages\\mss\\screenshot.py',
+   'PYMODULE'),
+  ('mss.tools',
+   'C:\\Users\\magene\\OneDrive - NVIDIA Corporation\\Desktop\\Marian Nvidia '
+   'AutoTestResults\\pythonTestAutomation\\venv_pythonAuto\\lib\\site-packages\\mss\\tools.py',
+   'PYMODULE'),
+  ('mss.windows',
+   'C:\\Users\\magene\\OneDrive - NVIDIA Corporation\\Desktop\\Marian Nvidia '
+   'AutoTestResults\\pythonTestAutomation\\venv_pythonAuto\\lib\\site-packages\\mss\\windows.py',
+   'PYMODULE'),
+  ('multiprocessing',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.8_3.8.2800.0_x64__qbz5n2kfra8p0\\lib\\multiprocessing\\__init__.py',
+   'PYMODULE'),
+  ('multiprocessing.connection',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.8_3.8.2800.0_x64__qbz5n2kfra8p0\\lib\\multiprocessing\\connection.py',
+   'PYMODULE'),
+  ('multiprocessing.context',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.8_3.8.2800.0_x64__qbz5n2kfra8p0\\lib\\multiprocessing\\context.py',
+   'PYMODULE'),
+  ('multiprocessing.dummy',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.8_3.8.2800.0_x64__qbz5n2kfra8p0\\lib\\multiprocessing\\dummy\\__init__.py',
+   'PYMODULE'),
+  ('multiprocessing.dummy.connection',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.8_3.8.2800.0_x64__qbz5n2kfra8p0\\lib\\multiprocessing\\dummy\\connection.py',
+   'PYMODULE'),
+  ('multiprocessing.forkserver',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.8_3.8.2800.0_x64__qbz5n2kfra8p0\\lib\\multiprocessing\\forkserver.py',
+   'PYMODULE'),
+  ('multiprocessing.heap',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.8_3.8.2800.0_x64__qbz5n2kfra8p0\\lib\\multiprocessing\\heap.py',
+   'PYMODULE'),
+  ('multiprocessing.managers',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.8_3.8.2800.0_x64__qbz5n2kfra8p0\\lib\\multiprocessing\\managers.py',
+   'PYMODULE'),
+  ('multiprocessing.pool',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.8_3.8.2800.0_x64__qbz5n2kfra8p0\\lib\\multiprocessing\\pool.py',
+   'PYMODULE'),
+  ('multiprocessing.popen_fork',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.8_3.8.2800.0_x64__qbz5n2kfra8p0\\lib\\multiprocessing\\popen_fork.py',
+   'PYMODULE'),
+  ('multiprocessing.popen_forkserver',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.8_3.8.2800.0_x64__qbz5n2kfra8p0\\lib\\multiprocessing\\popen_forkserver.py',
+   'PYMODULE'),
+  ('multiprocessing.popen_spawn_posix',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.8_3.8.2800.0_x64__qbz5n2kfra8p0\\lib\\multiprocessing\\popen_spawn_posix.py',
+   'PYMODULE'),
+  ('multiprocessing.popen_spawn_win32',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.8_3.8.2800.0_x64__qbz5n2kfra8p0\\lib\\multiprocessing\\popen_spawn_win32.py',
+   'PYMODULE'),
+  ('multiprocessing.process',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.8_3.8.2800.0_x64__qbz5n2kfra8p0\\lib\\multiprocessing\\process.py',
+   'PYMODULE'),
+  ('multiprocessing.queues',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.8_3.8.2800.0_x64__qbz5n2kfra8p0\\lib\\multiprocessing\\queues.py',
+   'PYMODULE'),
+  ('multiprocessing.reduction',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.8_3.8.2800.0_x64__qbz5n2kfra8p0\\lib\\multiprocessing\\reduction.py',
+   'PYMODULE'),
+  ('multiprocessing.resource_sharer',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.8_3.8.2800.0_x64__qbz5n2kfra8p0\\lib\\multiprocessing\\resource_sharer.py',
+   'PYMODULE'),
+  ('multiprocessing.resource_tracker',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.8_3.8.2800.0_x64__qbz5n2kfra8p0\\lib\\multiprocessing\\resource_tracker.py',
+   'PYMODULE'),
+  ('multiprocessing.shared_memory',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.8_3.8.2800.0_x64__qbz5n2kfra8p0\\lib\\multiprocessing\\shared_memory.py',
+   'PYMODULE'),
+  ('multiprocessing.sharedctypes',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.8_3.8.2800.0_x64__qbz5n2kfra8p0\\lib\\multiprocessing\\sharedctypes.py',
+   'PYMODULE'),
+  ('multiprocessing.spawn',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.8_3.8.2800.0_x64__qbz5n2kfra8p0\\lib\\multiprocessing\\spawn.py',
+   'PYMODULE'),
+  ('multiprocessing.synchronize',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.8_3.8.2800.0_x64__qbz5n2kfra8p0\\lib\\multiprocessing\\synchronize.py',
+   'PYMODULE'),
+  ('multiprocessing.util',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.8_3.8.2800.0_x64__qbz5n2kfra8p0\\lib\\multiprocessing\\util.py',
+   'PYMODULE'),
+  ('netrc',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.8_3.8.2800.0_x64__qbz5n2kfra8p0\\lib\\netrc.py',
+   'PYMODULE'),
+  ('nturl2path',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.8_3.8.2800.0_x64__qbz5n2kfra8p0\\lib\\nturl2path.py',
+   'PYMODULE'),
+  ('numbers',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.8_3.8.2800.0_x64__qbz5n2kfra8p0\\lib\\numbers.py',
+   'PYMODULE'),
+  ('numpy',
+   'C:\\Users\\magene\\OneDrive - NVIDIA Corporation\\Desktop\\Marian Nvidia '
+   'AutoTestResults\\pythonTestAutomation\\venv_pythonAuto\\lib\\site-packages\\numpy\\__init__.py',
+   'PYMODULE'),
+  ('numpy.__config__',
+   'C:\\Users\\magene\\OneDrive - NVIDIA Corporation\\Desktop\\Marian Nvidia '
+   'AutoTestResults\\pythonTestAutomation\\venv_pythonAuto\\lib\\site-packages\\numpy\\__config__.py',
+   'PYMODULE'),
+  ('numpy._distributor_init',
+   'C:\\Users\\magene\\OneDrive - NVIDIA Corporation\\Desktop\\Marian Nvidia '
+   'AutoTestResults\\pythonTestAutomation\\venv_pythonAuto\\lib\\site-packages\\numpy\\_distributor_init.py',
+   'PYMODULE'),
+  ('numpy._globals',
+   'C:\\Users\\magene\\OneDrive - NVIDIA Corporation\\Desktop\\Marian Nvidia '
+   'AutoTestResults\\pythonTestAutomation\\venv_pythonAuto\\lib\\site-packages\\numpy\\_globals.py',
+   'PYMODULE'),
+  ('numpy._pytesttester',
+   'C:\\Users\\magene\\OneDrive - NVIDIA Corporation\\Desktop\\Marian Nvidia '
+   'AutoTestResults\\pythonTestAutomation\\venv_pythonAuto\\lib\\site-packages\\numpy\\_pytesttester.py',
+   'PYMODULE'),
+  ('numpy._typing',
+   'C:\\Users\\magene\\OneDrive - NVIDIA Corporation\\Desktop\\Marian Nvidia '
+   'AutoTestResults\\pythonTestAutomation\\venv_pythonAuto\\lib\\site-packages\\numpy\\_typing\\__init__.py',
+   'PYMODULE'),
+  ('numpy._typing._add_docstring',
+   'C:\\Users\\magene\\OneDrive - NVIDIA Corporation\\Desktop\\Marian Nvidia '
+   'AutoTestResults\\pythonTestAutomation\\venv_pythonAuto\\lib\\site-packages\\numpy\\_typing\\_add_docstring.py',
+   'PYMODULE'),
+  ('numpy._typing._array_like',
+   'C:\\Users\\magene\\OneDrive - NVIDIA Corporation\\Desktop\\Marian Nvidia '
+   'AutoTestResults\\pythonTestAutomation\\venv_pythonAuto\\lib\\site-packages\\numpy\\_typing\\_array_like.py',
+   'PYMODULE'),
+  ('numpy._typing._char_codes',
+   'C:\\Users\\magene\\OneDrive - NVIDIA Corporation\\Desktop\\Marian Nvidia '
+   'AutoTestResults\\pythonTestAutomation\\venv_pythonAuto\\lib\\site-packages\\numpy\\_typing\\_char_codes.py',
+   'PYMODULE'),
+  ('numpy._typing._dtype_like',
+   'C:\\Users\\magene\\OneDrive - NVIDIA Corporation\\Desktop\\Marian Nvidia '
+   'AutoTestResults\\pythonTestAutomation\\venv_pythonAuto\\lib\\site-packages\\numpy\\_typing\\_dtype_like.py',
+   'PYMODULE'),
+  ('numpy._typing._generic_alias',
+   'C:\\Users\\magene\\OneDrive - NVIDIA Corporation\\Desktop\\Marian Nvidia '
+   'AutoTestResults\\pythonTestAutomation\\venv_pythonAuto\\lib\\site-packages\\numpy\\_typing\\_generic_alias.py',
+   'PYMODULE'),
+  ('numpy._typing._nbit',
+   'C:\\Users\\magene\\OneDrive - NVIDIA Corporation\\Desktop\\Marian Nvidia '
+   'AutoTestResults\\pythonTestAutomation\\venv_pythonAuto\\lib\\site-packages\\numpy\\_typing\\_nbit.py',
+   'PYMODULE'),
+  ('numpy._typing._nested_sequence',
+   'C:\\Users\\magene\\OneDrive - NVIDIA Corporation\\Desktop\\Marian Nvidia '
+   'AutoTestResults\\pythonTestAutomation\\venv_pythonAuto\\lib\\site-packages\\numpy\\_typing\\_nested_sequence.py',
+   'PYMODULE'),
+  ('numpy._typing._scalars',
+   'C:\\Users\\magene\\OneDrive - NVIDIA Corporation\\Desktop\\Marian Nvidia '
+   'AutoTestResults\\pythonTestAutomation\\venv_pythonAuto\\lib\\site-packages\\numpy\\_typing\\_scalars.py',
+   'PYMODULE'),
+  ('numpy._typing._shape',
+   'C:\\Users\\magene\\OneDrive - NVIDIA Corporation\\Desktop\\Marian Nvidia '
+   'AutoTestResults\\pythonTestAutomation\\venv_pythonAuto\\lib\\site-packages\\numpy\\_typing\\_shape.py',
+   'PYMODULE'),
+  ('numpy._version',
+   'C:\\Users\\magene\\OneDrive - NVIDIA Corporation\\Desktop\\Marian Nvidia '
+   'AutoTestResults\\pythonTestAutomation\\venv_pythonAuto\\lib\\site-packages\\numpy\\_version.py',
+   'PYMODULE'),
+  ('numpy.array_api',
+   'C:\\Users\\magene\\OneDrive - NVIDIA Corporation\\Desktop\\Marian Nvidia '
+   'AutoTestResults\\pythonTestAutomation\\venv_pythonAuto\\lib\\site-packages\\numpy\\array_api\\__init__.py',
+   'PYMODULE'),
+  ('numpy.array_api._array_object',
+   'C:\\Users\\magene\\OneDrive - NVIDIA Corporation\\Desktop\\Marian Nvidia '
+   'AutoTestResults\\pythonTestAutomation\\venv_pythonAuto\\lib\\site-packages\\numpy\\array_api\\_array_object.py',
+   'PYMODULE'),
+  ('numpy.array_api._constants',
+   'C:\\Users\\magene\\OneDrive - NVIDIA Corporation\\Desktop\\Marian Nvidia '
+   'AutoTestResults\\pythonTestAutomation\\venv_pythonAuto\\lib\\site-packages\\numpy\\array_api\\_constants.py',
+   'PYMODULE'),
+  ('numpy.array_api._creation_functions',
+   'C:\\Users\\magene\\OneDrive - NVIDIA Corporation\\Desktop\\Marian Nvidia '
+   'AutoTestResults\\pythonTestAutomation\\venv_pythonAuto\\lib\\site-packages\\numpy\\array_api\\_creation_functions.py',
+   'PYMODULE'),
+  ('numpy.array_api._data_type_functions',
+   'C:\\Users\\magene\\OneDrive - NVIDIA Corporation\\Desktop\\Marian Nvidia '
+   'AutoTestResults\\pythonTestAutomation\\venv_pythonAuto\\lib\\site-packages\\numpy\\array_api\\_data_type_functions.py',
+   'PYMODULE'),
+  ('numpy.array_api._dtypes',
+   'C:\\Users\\magene\\OneDrive - NVIDIA Corporation\\Desktop\\Marian Nvidia '
+   'AutoTestResults\\pythonTestAutomation\\venv_pythonAuto\\lib\\site-packages\\numpy\\array_api\\_dtypes.py',
+   'PYMODULE'),
+  ('numpy.array_api._elementwise_functions',
+   'C:\\Users\\magene\\OneDrive - NVIDIA Corporation\\Desktop\\Marian Nvidia '
+   'AutoTestResults\\pythonTestAutomation\\venv_pythonAuto\\lib\\site-packages\\numpy\\array_api\\_elementwise_functions.py',
+   'PYMODULE'),
+  ('numpy.array_api._manipulation_functions',
+   'C:\\Users\\magene\\OneDrive - NVIDIA Corporation\\Desktop\\Marian Nvidia '
+   'AutoTestResults\\pythonTestAutomation\\venv_pythonAuto\\lib\\site-packages\\numpy\\array_api\\_manipulation_functions.py',
+   'PYMODULE'),
+  ('numpy.array_api._searching_functions',
+   'C:\\Users\\magene\\OneDrive - NVIDIA Corporation\\Desktop\\Marian Nvidia '
+   'AutoTestResults\\pythonTestAutomation\\venv_pythonAuto\\lib\\site-packages\\numpy\\array_api\\_searching_functions.py',
+   'PYMODULE'),
+  ('numpy.array_api._set_functions',
+   'C:\\Users\\magene\\OneDrive - NVIDIA Corporation\\Desktop\\Marian Nvidia '
+   'AutoTestResults\\pythonTestAutomation\\venv_pythonAuto\\lib\\site-packages\\numpy\\array_api\\_set_functions.py',
+   'PYMODULE'),
+  ('numpy.array_api._sorting_functions',
+   'C:\\Users\\magene\\OneDrive - NVIDIA Corporation\\Desktop\\Marian Nvidia '
+   'AutoTestResults\\pythonTestAutomation\\venv_pythonAuto\\lib\\site-packages\\numpy\\array_api\\_sorting_functions.py',
+   'PYMODULE'),
+  ('numpy.array_api._statistical_functions',
+   'C:\\Users\\magene\\OneDrive - NVIDIA Corporation\\Desktop\\Marian Nvidia '
+   'AutoTestResults\\pythonTestAutomation\\venv_pythonAuto\\lib\\site-packages\\numpy\\array_api\\_statistical_functions.py',
+   'PYMODULE'),
+  ('numpy.array_api._typing',
+   'C:\\Users\\magene\\OneDrive - NVIDIA Corporation\\Desktop\\Marian Nvidia '
+   'AutoTestResults\\pythonTestAutomation\\venv_pythonAuto\\lib\\site-packages\\numpy\\array_api\\_typing.py',
+   'PYMODULE'),
+  ('numpy.array_api._utility_functions',
+   'C:\\Users\\magene\\OneDrive - NVIDIA Corporation\\Desktop\\Marian Nvidia '
+   'AutoTestResults\\pythonTestAutomation\\venv_pythonAuto\\lib\\site-packages\\numpy\\array_api\\_utility_functions.py',
+   'PYMODULE'),
+  ('numpy.array_api.linalg',
+   'C:\\Users\\magene\\OneDrive - NVIDIA Corporation\\Desktop\\Marian Nvidia '
+   'AutoTestResults\\pythonTestAutomation\\venv_pythonAuto\\lib\\site-packages\\numpy\\array_api\\linalg.py',
+   'PYMODULE'),
+  ('numpy.compat',
+   'C:\\Users\\magene\\OneDrive - NVIDIA Corporation\\Desktop\\Marian Nvidia '
+   'AutoTestResults\\pythonTestAutomation\\venv_pythonAuto\\lib\\site-packages\\numpy\\compat\\__init__.py',
+   'PYMODULE'),
+  ('numpy.compat._inspect',
+   'C:\\Users\\magene\\OneDrive - NVIDIA Corporation\\Desktop\\Marian Nvidia '
+   'AutoTestResults\\pythonTestAutomation\\venv_pythonAuto\\lib\\site-packages\\numpy\\compat\\_inspect.py',
+   'PYMODULE'),
+  ('numpy.compat.py3k',
+   'C:\\Users\\magene\\OneDrive - NVIDIA Corporation\\Desktop\\Marian Nvidia '
+   'AutoTestResults\\pythonTestAutomation\\venv_pythonAuto\\lib\\site-packages\\numpy\\compat\\py3k.py',
+   'PYMODULE'),
+  ('numpy.core',
+   'C:\\Users\\magene\\OneDrive - NVIDIA Corporation\\Desktop\\Marian Nvidia '
+   'AutoTestResults\\pythonTestAutomation\\venv_pythonAuto\\lib\\site-packages\\numpy\\core\\__init__.py',
+   'PYMODULE'),
+  ('numpy.core._add_newdocs',
+   'C:\\Users\\magene\\OneDrive - NVIDIA Corporation\\Desktop\\Marian Nvidia '
+   'AutoTestResults\\pythonTestAutomation\\venv_pythonAuto\\lib\\site-packages\\numpy\\core\\_add_newdocs.py',
+   'PYMODULE'),
+  ('numpy.core._add_newdocs_scalars',
+   'C:\\Users\\magene\\OneDrive - NVIDIA Corporation\\Desktop\\Marian Nvidia '
+   'AutoTestResults\\pythonTestAutomation\\venv_pythonAuto\\lib\\site-packages\\numpy\\core\\_add_newdocs_scalars.py',
+   'PYMODULE'),
+  ('numpy.core._asarray',
+   'C:\\Users\\magene\\OneDrive - NVIDIA Corporation\\Desktop\\Marian Nvidia '
+   'AutoTestResults\\pythonTestAutomation\\venv_pythonAuto\\lib\\site-packages\\numpy\\core\\_asarray.py',
+   'PYMODULE'),
+  ('numpy.core._dtype',
+   'C:\\Users\\magene\\OneDrive - NVIDIA Corporation\\Desktop\\Marian Nvidia '
+   'AutoTestResults\\pythonTestAutomation\\venv_pythonAuto\\lib\\site-packages\\numpy\\core\\_dtype.py',
+   'PYMODULE'),
+  ('numpy.core._dtype_ctypes',
+   'C:\\Users\\magene\\OneDrive - NVIDIA Corporation\\Desktop\\Marian Nvidia '
+   'AutoTestResults\\pythonTestAutomation\\venv_pythonAuto\\lib\\site-packages\\numpy\\core\\_dtype_ctypes.py',
+   'PYMODULE'),
+  ('numpy.core._exceptions',
+   'C:\\Users\\magene\\OneDrive - NVIDIA Corporation\\Desktop\\Marian Nvidia '
+   'AutoTestResults\\pythonTestAutomation\\venv_pythonAuto\\lib\\site-packages\\numpy\\core\\_exceptions.py',
+   'PYMODULE'),
+  ('numpy.core._internal',
+   'C:\\Users\\magene\\OneDrive - NVIDIA Corporation\\Desktop\\Marian Nvidia '
+   'AutoTestResults\\pythonTestAutomation\\venv_pythonAuto\\lib\\site-packages\\numpy\\core\\_internal.py',
+   'PYMODULE'),
+  ('numpy.core._machar',
+   'C:\\Users\\magene\\OneDrive - NVIDIA Corporation\\Desktop\\Marian Nvidia '
+   'AutoTestResults\\pythonTestAutomation\\venv_pythonAuto\\lib\\site-packages\\numpy\\core\\_machar.py',
+   'PYMODULE'),
+  ('numpy.core._methods',
+   'C:\\Users\\magene\\OneDrive - NVIDIA Corporation\\Desktop\\Marian Nvidia '
+   'AutoTestResults\\pythonTestAutomation\\venv_pythonAuto\\lib\\site-packages\\numpy\\core\\_methods.py',
+   'PYMODULE'),
+  ('numpy.core._string_helpers',
+   'C:\\Users\\magene\\OneDrive - NVIDIA Corporation\\Desktop\\Marian Nvidia '
+   'AutoTestResults\\pythonTestAutomation\\venv_pythonAuto\\lib\\site-packages\\numpy\\core\\_string_helpers.py',
+   'PYMODULE'),
+  ('numpy.core._type_aliases',
+   'C:\\Users\\magene\\OneDrive - NVIDIA Corporation\\Desktop\\Marian Nvidia '
+   'AutoTestResults\\pythonTestAutomation\\venv_pythonAuto\\lib\\site-packages\\numpy\\core\\_type_aliases.py',
+   'PYMODULE'),
+  ('numpy.core._ufunc_config',
+   'C:\\Users\\magene\\OneDrive - NVIDIA Corporation\\Desktop\\Marian Nvidia '
+   'AutoTestResults\\pythonTestAutomation\\venv_pythonAuto\\lib\\site-packages\\numpy\\core\\_ufunc_config.py',
+   'PYMODULE'),
+  ('numpy.core.arrayprint',
+   'C:\\Users\\magene\\OneDrive - NVIDIA Corporation\\Desktop\\Marian Nvidia '
+   'AutoTestResults\\pythonTestAutomation\\venv_pythonAuto\\lib\\site-packages\\numpy\\core\\arrayprint.py',
+   'PYMODULE'),
+  ('numpy.core.defchararray',
+   'C:\\Users\\magene\\OneDrive - NVIDIA Corporation\\Desktop\\Marian Nvidia '
+   'AutoTestResults\\pythonTestAutomation\\venv_pythonAuto\\lib\\site-packages\\numpy\\core\\defchararray.py',
+   'PYMODULE'),
+  ('numpy.core.einsumfunc',
+   'C:\\Users\\magene\\OneDrive - NVIDIA Corporation\\Desktop\\Marian Nvidia '
+   'AutoTestResults\\pythonTestAutomation\\venv_pythonAuto\\lib\\site-packages\\numpy\\core\\einsumfunc.py',
+   'PYMODULE'),
+  ('numpy.core.fromnumeric',
+   'C:\\Users\\magene\\OneDrive - NVIDIA Corporation\\Desktop\\Marian Nvidia '
+   'AutoTestResults\\pythonTestAutomation\\venv_pythonAuto\\lib\\site-packages\\numpy\\core\\fromnumeric.py',
+   'PYMODULE'),
+  ('numpy.core.function_base',
+   'C:\\Users\\magene\\OneDrive - NVIDIA Corporation\\Desktop\\Marian Nvidia '
+   'AutoTestResults\\pythonTestAutomation\\venv_pythonAuto\\lib\\site-packages\\numpy\\core\\function_base.py',
+   'PYMODULE'),
+  ('numpy.core.getlimits',
+   'C:\\Users\\magene\\OneDrive - NVIDIA Corporation\\Desktop\\Marian Nvidia '
+   'AutoTestResults\\pythonTestAutomation\\venv_pythonAuto\\lib\\site-packages\\numpy\\core\\getlimits.py',
+   'PYMODULE'),
+  ('numpy.core.memmap',
+   'C:\\Users\\magene\\OneDrive - NVIDIA Corporation\\Desktop\\Marian Nvidia '
+   'AutoTestResults\\pythonTestAutomation\\venv_pythonAuto\\lib\\site-packages\\numpy\\core\\memmap.py',
+   'PYMODULE'),
+  ('numpy.core.multiarray',
+   'C:\\Users\\magene\\OneDrive - NVIDIA Corporation\\Desktop\\Marian Nvidia '
+   'AutoTestResults\\pythonTestAutomation\\venv_pythonAuto\\lib\\site-packages\\numpy\\core\\multiarray.py',
+   'PYMODULE'),
+  ('numpy.core.numeric',
+   'C:\\Users\\magene\\OneDrive - NVIDIA Corporation\\Desktop\\Marian Nvidia '
+   'AutoTestResults\\pythonTestAutomation\\venv_pythonAuto\\lib\\site-packages\\numpy\\core\\numeric.py',
+   'PYMODULE'),
+  ('numpy.core.numerictypes',
+   'C:\\Users\\magene\\OneDrive - NVIDIA Corporation\\Desktop\\Marian Nvidia '
+   'AutoTestResults\\pythonTestAutomation\\venv_pythonAuto\\lib\\site-packages\\numpy\\core\\numerictypes.py',
+   'PYMODULE'),
+  ('numpy.core.overrides',
+   'C:\\Users\\magene\\OneDrive - NVIDIA Corporation\\Desktop\\Marian Nvidia '
+   'AutoTestResults\\pythonTestAutomation\\venv_pythonAuto\\lib\\site-packages\\numpy\\core\\overrides.py',
+   'PYMODULE'),
+  ('numpy.core.records',
+   'C:\\Users\\magene\\OneDrive - NVIDIA Corporation\\Desktop\\Marian Nvidia '
+   'AutoTestResults\\pythonTestAutomation\\venv_pythonAuto\\lib\\site-packages\\numpy\\core\\records.py',
+   'PYMODULE'),
+  ('numpy.core.shape_base',
+   'C:\\Users\\magene\\OneDrive - NVIDIA Corporation\\Desktop\\Marian Nvidia '
+   'AutoTestResults\\pythonTestAutomation\\venv_pythonAuto\\lib\\site-packages\\numpy\\core\\shape_base.py',
+   'PYMODULE'),
+  ('numpy.core.umath',
+   'C:\\Users\\magene\\OneDrive - NVIDIA Corporation\\Desktop\\Marian Nvidia '
+   'AutoTestResults\\pythonTestAutomation\\venv_pythonAuto\\lib\\site-packages\\numpy\\core\\umath.py',
+   'PYMODULE'),
+  ('numpy.ctypeslib',
+   'C:\\Users\\magene\\OneDrive - NVIDIA Corporation\\Desktop\\Marian Nvidia '
+   'AutoTestResults\\pythonTestAutomation\\venv_pythonAuto\\lib\\site-packages\\numpy\\ctypeslib.py',
+   'PYMODULE'),
+  ('numpy.distutils',
+   'C:\\Users\\magene\\OneDrive - NVIDIA Corporation\\Desktop\\Marian Nvidia '
+   'AutoTestResults\\pythonTestAutomation\\venv_pythonAuto\\lib\\site-packages\\numpy\\distutils\\__init__.py',
+   'PYMODULE'),
+  ('numpy.distutils.cpuinfo',
+   'C:\\Users\\magene\\OneDrive - NVIDIA Corporation\\Desktop\\Marian Nvidia '
+   'AutoTestResults\\pythonTestAutomation\\venv_pythonAuto\\lib\\site-packages\\numpy\\distutils\\cpuinfo.py',
+   'PYMODULE'),
+  ('numpy.fft',
+   'C:\\Users\\magene\\OneDrive - NVIDIA Corporation\\Desktop\\Marian Nvidia '
+   'AutoTestResults\\pythonTestAutomation\\venv_pythonAuto\\lib\\site-packages\\numpy\\fft\\__init__.py',
+   'PYMODULE'),
+  ('numpy.fft._pocketfft',
+   'C:\\Users\\magene\\OneDrive - NVIDIA Corporation\\Desktop\\Marian Nvidia '
+   'AutoTestResults\\pythonTestAutomation\\venv_pythonAuto\\lib\\site-packages\\numpy\\fft\\_pocketfft.py',
+   'PYMODULE'),
+  ('numpy.fft.helper',
+   'C:\\Users\\magene\\OneDrive - NVIDIA Corporation\\Desktop\\Marian Nvidia '
+   'AutoTestResults\\pythonTestAutomation\\venv_pythonAuto\\lib\\site-packages\\numpy\\fft\\helper.py',
+   'PYMODULE'),
+  ('numpy.lib',
+   'C:\\Users\\magene\\OneDrive - NVIDIA Corporation\\Desktop\\Marian Nvidia '
+   'AutoTestResults\\pythonTestAutomation\\venv_pythonAuto\\lib\\site-packages\\numpy\\lib\\__init__.py',
+   'PYMODULE'),
+  ('numpy.lib._datasource',
+   'C:\\Users\\magene\\OneDrive - NVIDIA Corporation\\Desktop\\Marian Nvidia '
+   'AutoTestResults\\pythonTestAutomation\\venv_pythonAuto\\lib\\site-packages\\numpy\\lib\\_datasource.py',
+   'PYMODULE'),
+  ('numpy.lib._iotools',
+   'C:\\Users\\magene\\OneDrive - NVIDIA Corporation\\Desktop\\Marian Nvidia '
+   'AutoTestResults\\pythonTestAutomation\\venv_pythonAuto\\lib\\site-packages\\numpy\\lib\\_iotools.py',
+   'PYMODULE'),
+  ('numpy.lib._version',
+   'C:\\Users\\magene\\OneDrive - NVIDIA Corporation\\Desktop\\Marian Nvidia '
+   'AutoTestResults\\pythonTestAutomation\\venv_pythonAuto\\lib\\site-packages\\numpy\\lib\\_version.py',
+   'PYMODULE'),
+  ('numpy.lib.arraypad',
+   'C:\\Users\\magene\\OneDrive - NVIDIA Corporation\\Desktop\\Marian Nvidia '
+   'AutoTestResults\\pythonTestAutomation\\venv_pythonAuto\\lib\\site-packages\\numpy\\lib\\arraypad.py',
+   'PYMODULE'),
+  ('numpy.lib.arraysetops',
+   'C:\\Users\\magene\\OneDrive - NVIDIA Corporation\\Desktop\\Marian Nvidia '
+   'AutoTestResults\\pythonTestAutomation\\venv_pythonAuto\\lib\\site-packages\\numpy\\lib\\arraysetops.py',
+   'PYMODULE'),
+  ('numpy.lib.arrayterator',
+   'C:\\Users\\magene\\OneDrive - NVIDIA Corporation\\Desktop\\Marian Nvidia '
+   'AutoTestResults\\pythonTestAutomation\\venv_pythonAuto\\lib\\site-packages\\numpy\\lib\\arrayterator.py',
+   'PYMODULE'),
+  ('numpy.lib.format',
+   'C:\\Users\\magene\\OneDrive - NVIDIA Corporation\\Desktop\\Marian Nvidia '
+   'AutoTestResults\\pythonTestAutomation\\venv_pythonAuto\\lib\\site-packages\\numpy\\lib\\format.py',
+   'PYMODULE'),
+  ('numpy.lib.function_base',
+   'C:\\Users\\magene\\OneDrive - NVIDIA Corporation\\Desktop\\Marian Nvidia '
+   'AutoTestResults\\pythonTestAutomation\\venv_pythonAuto\\lib\\site-packages\\numpy\\lib\\function_base.py',
+   'PYMODULE'),
+  ('numpy.lib.histograms',
+   'C:\\Users\\magene\\OneDrive - NVIDIA Corporation\\Desktop\\Marian Nvidia '
+   'AutoTestResults\\pythonTestAutomation\\venv_pythonAuto\\lib\\site-packages\\numpy\\lib\\histograms.py',
+   'PYMODULE'),
+  ('numpy.lib.index_tricks',
+   'C:\\Users\\magene\\OneDrive - NVIDIA Corporation\\Desktop\\Marian Nvidia '
+   'AutoTestResults\\pythonTestAutomation\\venv_pythonAuto\\lib\\site-packages\\numpy\\lib\\index_tricks.py',
+   'PYMODULE'),
+  ('numpy.lib.mixins',
+   'C:\\Users\\magene\\OneDrive - NVIDIA Corporation\\Desktop\\Marian Nvidia '
+   'AutoTestResults\\pythonTestAutomation\\venv_pythonAuto\\lib\\site-packages\\numpy\\lib\\mixins.py',
+   'PYMODULE'),
+  ('numpy.lib.nanfunctions',
+   'C:\\Users\\magene\\OneDrive - NVIDIA Corporation\\Desktop\\Marian Nvidia '
+   'AutoTestResults\\pythonTestAutomation\\venv_pythonAuto\\lib\\site-packages\\numpy\\lib\\nanfunctions.py',
+   'PYMODULE'),
+  ('numpy.lib.npyio',
+   'C:\\Users\\magene\\OneDrive - NVIDIA Corporation\\Desktop\\Marian Nvidia '
+   'AutoTestResults\\pythonTestAutomation\\venv_pythonAuto\\lib\\site-packages\\numpy\\lib\\npyio.py',
+   'PYMODULE'),
+  ('numpy.lib.polynomial',
+   'C:\\Users\\magene\\OneDrive - NVIDIA Corporation\\Desktop\\Marian Nvidia '
+   'AutoTestResults\\pythonTestAutomation\\venv_pythonAuto\\lib\\site-packages\\numpy\\lib\\polynomial.py',
+   'PYMODULE'),
+  ('numpy.lib.scimath',
+   'C:\\Users\\magene\\OneDrive - NVIDIA Corporation\\Desktop\\Marian Nvidia '
+   'AutoTestResults\\pythonTestAutomation\\venv_pythonAuto\\lib\\site-packages\\numpy\\lib\\scimath.py',
+   'PYMODULE'),
+  ('numpy.lib.shape_base',
+   'C:\\Users\\magene\\OneDrive - NVIDIA Corporation\\Desktop\\Marian Nvidia '
+   'AutoTestResults\\pythonTestAutomation\\venv_pythonAuto\\lib\\site-packages\\numpy\\lib\\shape_base.py',
+   'PYMODULE'),
+  ('numpy.lib.stride_tricks',
+   'C:\\Users\\magene\\OneDrive - NVIDIA Corporation\\Desktop\\Marian Nvidia '
+   'AutoTestResults\\pythonTestAutomation\\venv_pythonAuto\\lib\\site-packages\\numpy\\lib\\stride_tricks.py',
+   'PYMODULE'),
+  ('numpy.lib.twodim_base',
+   'C:\\Users\\magene\\OneDrive - NVIDIA Corporation\\Desktop\\Marian Nvidia '
+   'AutoTestResults\\pythonTestAutomation\\venv_pythonAuto\\lib\\site-packages\\numpy\\lib\\twodim_base.py',
+   'PYMODULE'),
+  ('numpy.lib.type_check',
+   'C:\\Users\\magene\\OneDrive - NVIDIA Corporation\\Desktop\\Marian Nvidia '
+   'AutoTestResults\\pythonTestAutomation\\venv_pythonAuto\\lib\\site-packages\\numpy\\lib\\type_check.py',
+   'PYMODULE'),
+  ('numpy.lib.ufunclike',
+   'C:\\Users\\magene\\OneDrive - NVIDIA Corporation\\Desktop\\Marian Nvidia '
+   'AutoTestResults\\pythonTestAutomation\\venv_pythonAuto\\lib\\site-packages\\numpy\\lib\\ufunclike.py',
+   'PYMODULE'),
+  ('numpy.lib.utils',
+   'C:\\Users\\magene\\OneDrive - NVIDIA Corporation\\Desktop\\Marian Nvidia '
+   'AutoTestResults\\pythonTestAutomation\\venv_pythonAuto\\lib\\site-packages\\numpy\\lib\\utils.py',
+   'PYMODULE'),
+  ('numpy.linalg',
+   'C:\\Users\\magene\\OneDrive - NVIDIA Corporation\\Desktop\\Marian Nvidia '
+   'AutoTestResults\\pythonTestAutomation\\venv_pythonAuto\\lib\\site-packages\\numpy\\linalg\\__init__.py',
+   'PYMODULE'),
+  ('numpy.linalg.linalg',
+   'C:\\Users\\magene\\OneDrive - NVIDIA Corporation\\Desktop\\Marian Nvidia '
+   'AutoTestResults\\pythonTestAutomation\\venv_pythonAuto\\lib\\site-packages\\numpy\\linalg\\linalg.py',
+   'PYMODULE'),
+  ('numpy.ma',
+   'C:\\Users\\magene\\OneDrive - NVIDIA Corporation\\Desktop\\Marian Nvidia '
+   'AutoTestResults\\pythonTestAutomation\\venv_pythonAuto\\lib\\site-packages\\numpy\\ma\\__init__.py',
+   'PYMODULE'),
+  ('numpy.ma.core',
+   'C:\\Users\\magene\\OneDrive - NVIDIA Corporation\\Desktop\\Marian Nvidia '
+   'AutoTestResults\\pythonTestAutomation\\venv_pythonAuto\\lib\\site-packages\\numpy\\ma\\core.py',
+   'PYMODULE'),
+  ('numpy.ma.extras',
+   'C:\\Users\\magene\\OneDrive - NVIDIA Corporation\\Desktop\\Marian Nvidia '
+   'AutoTestResults\\pythonTestAutomation\\venv_pythonAuto\\lib\\site-packages\\numpy\\ma\\extras.py',
+   'PYMODULE'),
+  ('numpy.ma.mrecords',
+   'C:\\Users\\magene\\OneDrive - NVIDIA Corporation\\Desktop\\Marian Nvidia '
+   'AutoTestResults\\pythonTestAutomation\\venv_pythonAuto\\lib\\site-packages\\numpy\\ma\\mrecords.py',
+   'PYMODULE'),
+  ('numpy.matrixlib',
+   'C:\\Users\\magene\\OneDrive - NVIDIA Corporation\\Desktop\\Marian Nvidia '
+   'AutoTestResults\\pythonTestAutomation\\venv_pythonAuto\\lib\\site-packages\\numpy\\matrixlib\\__init__.py',
+   'PYMODULE'),
+  ('numpy.matrixlib.defmatrix',
+   'C:\\Users\\magene\\OneDrive - NVIDIA Corporation\\Desktop\\Marian Nvidia '
+   'AutoTestResults\\pythonTestAutomation\\venv_pythonAuto\\lib\\site-packages\\numpy\\matrixlib\\defmatrix.py',
+   'PYMODULE'),
+  ('numpy.polynomial',
+   'C:\\Users\\magene\\OneDrive - NVIDIA Corporation\\Desktop\\Marian Nvidia '
+   'AutoTestResults\\pythonTestAutomation\\venv_pythonAuto\\lib\\site-packages\\numpy\\polynomial\\__init__.py',
+   'PYMODULE'),
+  ('numpy.polynomial._polybase',
+   'C:\\Users\\magene\\OneDrive - NVIDIA Corporation\\Desktop\\Marian Nvidia '
+   'AutoTestResults\\pythonTestAutomation\\venv_pythonAuto\\lib\\site-packages\\numpy\\polynomial\\_polybase.py',
+   'PYMODULE'),
+  ('numpy.polynomial.chebyshev',
+   'C:\\Users\\magene\\OneDrive - NVIDIA Corporation\\Desktop\\Marian Nvidia '
+   'AutoTestResults\\pythonTestAutomation\\venv_pythonAuto\\lib\\site-packages\\numpy\\polynomial\\chebyshev.py',
+   'PYMODULE'),
+  ('numpy.polynomial.hermite',
+   'C:\\Users\\magene\\OneDrive - NVIDIA Corporation\\Desktop\\Marian Nvidia '
+   'AutoTestResults\\pythonTestAutomation\\venv_pythonAuto\\lib\\site-packages\\numpy\\polynomial\\hermite.py',
+   'PYMODULE'),
+  ('numpy.polynomial.hermite_e',
+   'C:\\Users\\magene\\OneDrive - NVIDIA Corporation\\Desktop\\Marian Nvidia '
+   'AutoTestResults\\pythonTestAutomation\\venv_pythonAuto\\lib\\site-packages\\numpy\\polynomial\\hermite_e.py',
+   'PYMODULE'),
+  ('numpy.polynomial.laguerre',
+   'C:\\Users\\magene\\OneDrive - NVIDIA Corporation\\Desktop\\Marian Nvidia '
+   'AutoTestResults\\pythonTestAutomation\\venv_pythonAuto\\lib\\site-packages\\numpy\\polynomial\\laguerre.py',
+   'PYMODULE'),
+  ('numpy.polynomial.legendre',
+   'C:\\Users\\magene\\OneDrive - NVIDIA Corporation\\Desktop\\Marian Nvidia '
+   'AutoTestResults\\pythonTestAutomation\\venv_pythonAuto\\lib\\site-packages\\numpy\\polynomial\\legendre.py',
+   'PYMODULE'),
+  ('numpy.polynomial.polynomial',
+   'C:\\Users\\magene\\OneDrive - NVIDIA Corporation\\Desktop\\Marian Nvidia '
+   'AutoTestResults\\pythonTestAutomation\\venv_pythonAuto\\lib\\site-packages\\numpy\\polynomial\\polynomial.py',
+   'PYMODULE'),
+  ('numpy.polynomial.polyutils',
+   'C:\\Users\\magene\\OneDrive - NVIDIA Corporation\\Desktop\\Marian Nvidia '
+   'AutoTestResults\\pythonTestAutomation\\venv_pythonAuto\\lib\\site-packages\\numpy\\polynomial\\polyutils.py',
+   'PYMODULE'),
+  ('numpy.random',
+   'C:\\Users\\magene\\OneDrive - NVIDIA Corporation\\Desktop\\Marian Nvidia '
+   'AutoTestResults\\pythonTestAutomation\\venv_pythonAuto\\lib\\site-packages\\numpy\\random\\__init__.py',
+   'PYMODULE'),
+  ('numpy.random._pickle',
+   'C:\\Users\\magene\\OneDrive - NVIDIA Corporation\\Desktop\\Marian Nvidia '
+   'AutoTestResults\\pythonTestAutomation\\venv_pythonAuto\\lib\\site-packages\\numpy\\random\\_pickle.py',
+   'PYMODULE'),
+  ('numpy.testing',
+   'C:\\Users\\magene\\OneDrive - NVIDIA Corporation\\Desktop\\Marian Nvidia '
+   'AutoTestResults\\pythonTestAutomation\\venv_pythonAuto\\lib\\site-packages\\numpy\\testing\\__init__.py',
+   'PYMODULE'),
+  ('numpy.testing._private',
+   'C:\\Users\\magene\\OneDrive - NVIDIA Corporation\\Desktop\\Marian Nvidia '
+   'AutoTestResults\\pythonTestAutomation\\venv_pythonAuto\\lib\\site-packages\\numpy\\testing\\_private\\__init__.py',
+   'PYMODULE'),
+  ('numpy.testing._private.decorators',
+   'C:\\Users\\magene\\OneDrive - NVIDIA Corporation\\Desktop\\Marian Nvidia '
+   'AutoTestResults\\pythonTestAutomation\\venv_pythonAuto\\lib\\site-packages\\numpy\\testing\\_private\\decorators.py',
+   'PYMODULE'),
+  ('numpy.testing._private.extbuild',
+   'C:\\Users\\magene\\OneDrive - NVIDIA Corporation\\Desktop\\Marian Nvidia '
+   'AutoTestResults\\pythonTestAutomation\\venv_pythonAuto\\lib\\site-packages\\numpy\\testing\\_private\\extbuild.py',
+   'PYMODULE'),
+  ('numpy.testing._private.noseclasses',
+   'C:\\Users\\magene\\OneDrive - NVIDIA Corporation\\Desktop\\Marian Nvidia '
+   'AutoTestResults\\pythonTestAutomation\\venv_pythonAuto\\lib\\site-packages\\numpy\\testing\\_private\\noseclasses.py',
+   'PYMODULE'),
+  ('numpy.testing._private.nosetester',
+   'C:\\Users\\magene\\OneDrive - NVIDIA Corporation\\Desktop\\Marian Nvidia '
+   'AutoTestResults\\pythonTestAutomation\\venv_pythonAuto\\lib\\site-packages\\numpy\\testing\\_private\\nosetester.py',
+   'PYMODULE'),
+  ('numpy.testing._private.parameterized',
+   'C:\\Users\\magene\\OneDrive - NVIDIA Corporation\\Desktop\\Marian Nvidia '
+   'AutoTestResults\\pythonTestAutomation\\venv_pythonAuto\\lib\\site-packages\\numpy\\testing\\_private\\parameterized.py',
+   'PYMODULE'),
+  ('numpy.testing._private.utils',
+   'C:\\Users\\magene\\OneDrive - NVIDIA Corporation\\Desktop\\Marian Nvidia '
+   'AutoTestResults\\pythonTestAutomation\\venv_pythonAuto\\lib\\site-packages\\numpy\\testing\\_private\\utils.py',
+   'PYMODULE'),
+  ('numpy.typing',
+   'C:\\Users\\magene\\OneDrive - NVIDIA Corporation\\Desktop\\Marian Nvidia '
+   'AutoTestResults\\pythonTestAutomation\\venv_pythonAuto\\lib\\site-packages\\numpy\\typing\\__init__.py',
+   'PYMODULE'),
+  ('numpy.version',
+   'C:\\Users\\magene\\OneDrive - NVIDIA Corporation\\Desktop\\Marian Nvidia '
+   'AutoTestResults\\pythonTestAutomation\\venv_pythonAuto\\lib\\site-packages\\numpy\\version.py',
+   'PYMODULE'),
+  ('opcode',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.8_3.8.2800.0_x64__qbz5n2kfra8p0\\lib\\opcode.py',
+   'PYMODULE'),
+  ('optparse',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.8_3.8.2800.0_x64__qbz5n2kfra8p0\\lib\\optparse.py',
+   'PYMODULE'),
+  ('packaging',
+   'C:\\Users\\magene\\OneDrive - NVIDIA Corporation\\Desktop\\Marian Nvidia '
+   'AutoTestResults\\pythonTestAutomation\\venv_pythonAuto\\lib\\site-packages\\packaging\\__init__.py',
+   'PYMODULE'),
+  ('packaging._elffile',
+   'C:\\Users\\magene\\OneDrive - NVIDIA Corporation\\Desktop\\Marian Nvidia '
+   'AutoTestResults\\pythonTestAutomation\\venv_pythonAuto\\lib\\site-packages\\packaging\\_elffile.py',
+   'PYMODULE'),
+  ('packaging._manylinux',
+   'C:\\Users\\magene\\OneDrive - NVIDIA Corporation\\Desktop\\Marian Nvidia '
+   'AutoTestResults\\pythonTestAutomation\\venv_pythonAuto\\lib\\site-packages\\packaging\\_manylinux.py',
+   'PYMODULE'),
+  ('packaging._musllinux',
+   'C:\\Users\\magene\\OneDrive - NVIDIA Corporation\\Desktop\\Marian Nvidia '
+   'AutoTestResults\\pythonTestAutomation\\venv_pythonAuto\\lib\\site-packages\\packaging\\_musllinux.py',
+   'PYMODULE'),
+  ('packaging._parser',
+   'C:\\Users\\magene\\OneDrive - NVIDIA Corporation\\Desktop\\Marian Nvidia '
+   'AutoTestResults\\pythonTestAutomation\\venv_pythonAuto\\lib\\site-packages\\packaging\\_parser.py',
+   'PYMODULE'),
+  ('packaging._structures',
+   'C:\\Users\\magene\\OneDrive - NVIDIA Corporation\\Desktop\\Marian Nvidia '
+   'AutoTestResults\\pythonTestAutomation\\venv_pythonAuto\\lib\\site-packages\\packaging\\_structures.py',
+   'PYMODULE'),
+  ('packaging._tokenizer',
+   'C:\\Users\\magene\\OneDrive - NVIDIA Corporation\\Desktop\\Marian Nvidia '
+   'AutoTestResults\\pythonTestAutomation\\venv_pythonAuto\\lib\\site-packages\\packaging\\_tokenizer.py',
+   'PYMODULE'),
+  ('packaging.markers',
+   'C:\\Users\\magene\\OneDrive - NVIDIA Corporation\\Desktop\\Marian Nvidia '
+   'AutoTestResults\\pythonTestAutomation\\venv_pythonAuto\\lib\\site-packages\\packaging\\markers.py',
+   'PYMODULE'),
+  ('packaging.metadata',
+   'C:\\Users\\magene\\OneDrive - NVIDIA Corporation\\Desktop\\Marian Nvidia '
+   'AutoTestResults\\pythonTestAutomation\\venv_pythonAuto\\lib\\site-packages\\packaging\\metadata.py',
+   'PYMODULE'),
+  ('packaging.requirements',
+   'C:\\Users\\magene\\OneDrive - NVIDIA Corporation\\Desktop\\Marian Nvidia '
+   'AutoTestResults\\pythonTestAutomation\\venv_pythonAuto\\lib\\site-packages\\packaging\\requirements.py',
+   'PYMODULE'),
+  ('packaging.specifiers',
+   'C:\\Users\\magene\\OneDrive - NVIDIA Corporation\\Desktop\\Marian Nvidia '
+   'AutoTestResults\\pythonTestAutomation\\venv_pythonAuto\\lib\\site-packages\\packaging\\specifiers.py',
+   'PYMODULE'),
+  ('packaging.tags',
+   'C:\\Users\\magene\\OneDrive - NVIDIA Corporation\\Desktop\\Marian Nvidia '
+   'AutoTestResults\\pythonTestAutomation\\venv_pythonAuto\\lib\\site-packages\\packaging\\tags.py',
+   'PYMODULE'),
+  ('packaging.utils',
+   'C:\\Users\\magene\\OneDrive - NVIDIA Corporation\\Desktop\\Marian Nvidia '
+   'AutoTestResults\\pythonTestAutomation\\venv_pythonAuto\\lib\\site-packages\\packaging\\utils.py',
+   'PYMODULE'),
+  ('packaging.version',
+   'C:\\Users\\magene\\OneDrive - NVIDIA Corporation\\Desktop\\Marian Nvidia '
+   'AutoTestResults\\pythonTestAutomation\\venv_pythonAuto\\lib\\site-packages\\packaging\\version.py',
+   'PYMODULE'),
+  ('pathlib',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.8_3.8.2800.0_x64__qbz5n2kfra8p0\\lib\\pathlib.py',
+   'PYMODULE'),
+  ('pdb',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.8_3.8.2800.0_x64__qbz5n2kfra8p0\\lib\\pdb.py',
+   'PYMODULE'),
+  ('pickle',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.8_3.8.2800.0_x64__qbz5n2kfra8p0\\lib\\pickle.py',
+   'PYMODULE'),
+  ('pkg_resources',
+   'C:\\Users\\magene\\OneDrive - NVIDIA Corporation\\Desktop\\Marian Nvidia '
+   'AutoTestResults\\pythonTestAutomation\\venv_pythonAuto\\lib\\site-packages\\pkg_resources\\__init__.py',
+   'PYMODULE'),
+  ('pkg_resources._vendor',
+   'C:\\Users\\magene\\OneDrive - NVIDIA Corporation\\Desktop\\Marian Nvidia '
+   'AutoTestResults\\pythonTestAutomation\\venv_pythonAuto\\lib\\site-packages\\pkg_resources\\_vendor\\__init__.py',
+   'PYMODULE'),
+  ('pkg_resources._vendor.appdirs',
+   'C:\\Users\\magene\\OneDrive - NVIDIA Corporation\\Desktop\\Marian Nvidia '
+   'AutoTestResults\\pythonTestAutomation\\venv_pythonAuto\\lib\\site-packages\\pkg_resources\\_vendor\\appdirs.py',
+   'PYMODULE'),
+  ('pkg_resources._vendor.packaging',
+   'C:\\Users\\magene\\OneDrive - NVIDIA Corporation\\Desktop\\Marian Nvidia '
+   'AutoTestResults\\pythonTestAutomation\\venv_pythonAuto\\lib\\site-packages\\pkg_resources\\_vendor\\packaging\\__init__.py',
+   'PYMODULE'),
+  ('pkg_resources._vendor.packaging.__about__',
+   'C:\\Users\\magene\\OneDrive - NVIDIA Corporation\\Desktop\\Marian Nvidia '
+   'AutoTestResults\\pythonTestAutomation\\venv_pythonAuto\\lib\\site-packages\\pkg_resources\\_vendor\\packaging\\__about__.py',
+   'PYMODULE'),
+  ('pkg_resources._vendor.packaging._compat',
+   'C:\\Users\\magene\\OneDrive - NVIDIA Corporation\\Desktop\\Marian Nvidia '
+   'AutoTestResults\\pythonTestAutomation\\venv_pythonAuto\\lib\\site-packages\\pkg_resources\\_vendor\\packaging\\_compat.py',
+   'PYMODULE'),
+  ('pkg_resources._vendor.packaging._structures',
+   'C:\\Users\\magene\\OneDrive - NVIDIA Corporation\\Desktop\\Marian Nvidia '
+   'AutoTestResults\\pythonTestAutomation\\venv_pythonAuto\\lib\\site-packages\\pkg_resources\\_vendor\\packaging\\_structures.py',
+   'PYMODULE'),
+  ('pkg_resources._vendor.packaging._typing',
+   'C:\\Users\\magene\\OneDrive - NVIDIA Corporation\\Desktop\\Marian Nvidia '
+   'AutoTestResults\\pythonTestAutomation\\venv_pythonAuto\\lib\\site-packages\\pkg_resources\\_vendor\\packaging\\_typing.py',
+   'PYMODULE'),
+  ('pkg_resources._vendor.packaging.markers',
+   'C:\\Users\\magene\\OneDrive - NVIDIA Corporation\\Desktop\\Marian Nvidia '
+   'AutoTestResults\\pythonTestAutomation\\venv_pythonAuto\\lib\\site-packages\\pkg_resources\\_vendor\\packaging\\markers.py',
+   'PYMODULE'),
+  ('pkg_resources._vendor.packaging.requirements',
+   'C:\\Users\\magene\\OneDrive - NVIDIA Corporation\\Desktop\\Marian Nvidia '
+   'AutoTestResults\\pythonTestAutomation\\venv_pythonAuto\\lib\\site-packages\\pkg_resources\\_vendor\\packaging\\requirements.py',
+   'PYMODULE'),
+  ('pkg_resources._vendor.packaging.specifiers',
+   'C:\\Users\\magene\\OneDrive - NVIDIA Corporation\\Desktop\\Marian Nvidia '
+   'AutoTestResults\\pythonTestAutomation\\venv_pythonAuto\\lib\\site-packages\\pkg_resources\\_vendor\\packaging\\specifiers.py',
+   'PYMODULE'),
+  ('pkg_resources._vendor.packaging.tags',
+   'C:\\Users\\magene\\OneDrive - NVIDIA Corporation\\Desktop\\Marian Nvidia '
+   'AutoTestResults\\pythonTestAutomation\\venv_pythonAuto\\lib\\site-packages\\pkg_resources\\_vendor\\packaging\\tags.py',
+   'PYMODULE'),
+  ('pkg_resources._vendor.packaging.utils',
+   'C:\\Users\\magene\\OneDrive - NVIDIA Corporation\\Desktop\\Marian Nvidia '
+   'AutoTestResults\\pythonTestAutomation\\venv_pythonAuto\\lib\\site-packages\\pkg_resources\\_vendor\\packaging\\utils.py',
+   'PYMODULE'),
+  ('pkg_resources._vendor.packaging.version',
+   'C:\\Users\\magene\\OneDrive - NVIDIA Corporation\\Desktop\\Marian Nvidia '
+   'AutoTestResults\\pythonTestAutomation\\venv_pythonAuto\\lib\\site-packages\\pkg_resources\\_vendor\\packaging\\version.py',
+   'PYMODULE'),
+  ('pkg_resources._vendor.pyparsing',
+   'C:\\Users\\magene\\OneDrive - NVIDIA Corporation\\Desktop\\Marian Nvidia '
+   'AutoTestResults\\pythonTestAutomation\\venv_pythonAuto\\lib\\site-packages\\pkg_resources\\_vendor\\pyparsing.py',
+   'PYMODULE'),
+  ('pkg_resources.extern',
+   'C:\\Users\\magene\\OneDrive - NVIDIA Corporation\\Desktop\\Marian Nvidia '
+   'AutoTestResults\\pythonTestAutomation\\venv_pythonAuto\\lib\\site-packages\\pkg_resources\\extern\\__init__.py',
+   'PYMODULE'),
+  ('pkgutil',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.8_3.8.2800.0_x64__qbz5n2kfra8p0\\lib\\pkgutil.py',
+   'PYMODULE'),
+  ('platform',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.8_3.8.2800.0_x64__qbz5n2kfra8p0\\lib\\platform.py',
+   'PYMODULE'),
+  ('plistlib',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.8_3.8.2800.0_x64__qbz5n2kfra8p0\\lib\\plistlib.py',
+   'PYMODULE'),
+  ('pprint',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.8_3.8.2800.0_x64__qbz5n2kfra8p0\\lib\\pprint.py',
+   'PYMODULE'),
+  ('py_compile',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.8_3.8.2800.0_x64__qbz5n2kfra8p0\\lib\\py_compile.py',
+   'PYMODULE'),
+  ('pyautogui',
+   'C:\\Users\\magene\\OneDrive - NVIDIA Corporation\\Desktop\\Marian Nvidia '
+   'AutoTestResults\\pythonTestAutomation\\venv_pythonAuto\\lib\\site-packages\\pyautogui\\__init__.py',
+   'PYMODULE'),
+  ('pyautogui._pyautogui_osx',
+   'C:\\Users\\magene\\OneDrive - NVIDIA Corporation\\Desktop\\Marian Nvidia '
+   'AutoTestResults\\pythonTestAutomation\\venv_pythonAuto\\lib\\site-packages\\pyautogui\\_pyautogui_osx.py',
+   'PYMODULE'),
+  ('pyautogui._pyautogui_win',
+   'C:\\Users\\magene\\OneDrive - NVIDIA Corporation\\Desktop\\Marian Nvidia '
+   'AutoTestResults\\pythonTestAutomation\\venv_pythonAuto\\lib\\site-packages\\pyautogui\\_pyautogui_win.py',
+   'PYMODULE'),
+  ('pyautogui._pyautogui_x11',
+   'C:\\Users\\magene\\OneDrive - NVIDIA Corporation\\Desktop\\Marian Nvidia '
+   'AutoTestResults\\pythonTestAutomation\\venv_pythonAuto\\lib\\site-packages\\pyautogui\\_pyautogui_x11.py',
+   'PYMODULE'),
+  ('pydoc',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.8_3.8.2800.0_x64__qbz5n2kfra8p0\\lib\\pydoc.py',
+   'PYMODULE'),
+  ('pydoc_data',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.8_3.8.2800.0_x64__qbz5n2kfra8p0\\lib\\pydoc_data\\__init__.py',
+   'PYMODULE'),
+  ('pydoc_data.topics',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.8_3.8.2800.0_x64__qbz5n2kfra8p0\\lib\\pydoc_data\\topics.py',
+   'PYMODULE'),
+  ('pygetwindow',
+   'C:\\Users\\magene\\OneDrive - NVIDIA Corporation\\Desktop\\Marian Nvidia '
+   'AutoTestResults\\pythonTestAutomation\\venv_pythonAuto\\lib\\site-packages\\pygetwindow\\__init__.py',
+   'PYMODULE'),
+  ('pygetwindow._pygetwindow_macos',
+   'C:\\Users\\magene\\OneDrive - NVIDIA Corporation\\Desktop\\Marian Nvidia '
+   'AutoTestResults\\pythonTestAutomation\\venv_pythonAuto\\lib\\site-packages\\pygetwindow\\_pygetwindow_macos.py',
+   'PYMODULE'),
+  ('pygetwindow._pygetwindow_win',
+   'C:\\Users\\magene\\OneDrive - NVIDIA Corporation\\Desktop\\Marian Nvidia '
+   'AutoTestResults\\pythonTestAutomation\\venv_pythonAuto\\lib\\site-packages\\pygetwindow\\_pygetwindow_win.py',
+   'PYMODULE'),
+  ('pymsgbox',
+   'C:\\Users\\magene\\OneDrive - NVIDIA Corporation\\Desktop\\Marian Nvidia '
+   'AutoTestResults\\pythonTestAutomation\\venv_pythonAuto\\lib\\site-packages\\pymsgbox\\__init__.py',
+   'PYMODULE'),
+  ('pymsgbox._native_win',
+   'C:\\Users\\magene\\OneDrive - NVIDIA Corporation\\Desktop\\Marian Nvidia '
+   'AutoTestResults\\pythonTestAutomation\\venv_pythonAuto\\lib\\site-packages\\pymsgbox\\_native_win.py',
+   'PYMODULE'),
+  ('pyparsing',
+   'C:\\Users\\magene\\OneDrive - NVIDIA Corporation\\Desktop\\Marian Nvidia '
+   'AutoTestResults\\pythonTestAutomation\\venv_pythonAuto\\lib\\site-packages\\pyparsing\\__init__.py',
+   'PYMODULE'),
+  ('pyparsing.actions',
+   'C:\\Users\\magene\\OneDrive - NVIDIA Corporation\\Desktop\\Marian Nvidia '
+   'AutoTestResults\\pythonTestAutomation\\venv_pythonAuto\\lib\\site-packages\\pyparsing\\actions.py',
+   'PYMODULE'),
+  ('pyparsing.common',
+   'C:\\Users\\magene\\OneDrive - NVIDIA Corporation\\Desktop\\Marian Nvidia '
+   'AutoTestResults\\pythonTestAutomation\\venv_pythonAuto\\lib\\site-packages\\pyparsing\\common.py',
+   'PYMODULE'),
+  ('pyparsing.core',
+   'C:\\Users\\magene\\OneDrive - NVIDIA Corporation\\Desktop\\Marian Nvidia '
+   'AutoTestResults\\pythonTestAutomation\\venv_pythonAuto\\lib\\site-packages\\pyparsing\\core.py',
+   'PYMODULE'),
+  ('pyparsing.diagram',
+   'C:\\Users\\magene\\OneDrive - NVIDIA Corporation\\Desktop\\Marian Nvidia '
+   'AutoTestResults\\pythonTestAutomation\\venv_pythonAuto\\lib\\site-packages\\pyparsing\\diagram\\__init__.py',
+   'PYMODULE'),
+  ('pyparsing.exceptions',
+   'C:\\Users\\magene\\OneDrive - NVIDIA Corporation\\Desktop\\Marian Nvidia '
+   'AutoTestResults\\pythonTestAutomation\\venv_pythonAuto\\lib\\site-packages\\pyparsing\\exceptions.py',
+   'PYMODULE'),
+  ('pyparsing.helpers',
+   'C:\\Users\\magene\\OneDrive - NVIDIA Corporation\\Desktop\\Marian Nvidia '
+   'AutoTestResults\\pythonTestAutomation\\venv_pythonAuto\\lib\\site-packages\\pyparsing\\helpers.py',
+   'PYMODULE'),
+  ('pyparsing.results',
+   'C:\\Users\\magene\\OneDrive - NVIDIA Corporation\\Desktop\\Marian Nvidia '
+   'AutoTestResults\\pythonTestAutomation\\venv_pythonAuto\\lib\\site-packages\\pyparsing\\results.py',
+   'PYMODULE'),
+  ('pyparsing.testing',
+   'C:\\Users\\magene\\OneDrive - NVIDIA Corporation\\Desktop\\Marian Nvidia '
+   'AutoTestResults\\pythonTestAutomation\\venv_pythonAuto\\lib\\site-packages\\pyparsing\\testing.py',
+   'PYMODULE'),
+  ('pyparsing.unicode',
+   'C:\\Users\\magene\\OneDrive - NVIDIA Corporation\\Desktop\\Marian Nvidia '
+   'AutoTestResults\\pythonTestAutomation\\venv_pythonAuto\\lib\\site-packages\\pyparsing\\unicode.py',
+   'PYMODULE'),
+  ('pyparsing.util',
+   'C:\\Users\\magene\\OneDrive - NVIDIA Corporation\\Desktop\\Marian Nvidia '
+   'AutoTestResults\\pythonTestAutomation\\venv_pythonAuto\\lib\\site-packages\\pyparsing\\util.py',
+   'PYMODULE'),
+  ('pyperclip',
+   'C:\\Users\\magene\\OneDrive - NVIDIA Corporation\\Desktop\\Marian Nvidia '
+   'AutoTestResults\\pythonTestAutomation\\venv_pythonAuto\\lib\\site-packages\\pyperclip\\__init__.py',
+   'PYMODULE'),
+  ('pyrect',
+   'C:\\Users\\magene\\OneDrive - NVIDIA Corporation\\Desktop\\Marian Nvidia '
+   'AutoTestResults\\pythonTestAutomation\\venv_pythonAuto\\lib\\site-packages\\pyrect\\__init__.py',
+   'PYMODULE'),
+  ('pyscreeze',
+   'C:\\Users\\magene\\OneDrive - NVIDIA Corporation\\Desktop\\Marian Nvidia '
+   'AutoTestResults\\pythonTestAutomation\\venv_pythonAuto\\lib\\site-packages\\pyscreeze\\__init__.py',
+   'PYMODULE'),
+  ('pytesseract',
+   'C:\\Users\\magene\\OneDrive - NVIDIA Corporation\\Desktop\\Marian Nvidia '
+   'AutoTestResults\\pythonTestAutomation\\venv_pythonAuto\\lib\\site-packages\\pytesseract\\__init__.py',
+   'PYMODULE'),
+  ('pytesseract.pytesseract',
+   'C:\\Users\\magene\\OneDrive - NVIDIA Corporation\\Desktop\\Marian Nvidia '
+   'AutoTestResults\\pythonTestAutomation\\venv_pythonAuto\\lib\\site-packages\\pytesseract\\pytesseract.py',
+   'PYMODULE'),
+  ('python_imagesearch',
+   'C:\\Users\\magene\\OneDrive - NVIDIA Corporation\\Desktop\\Marian Nvidia '
+   'AutoTestResults\\pythonTestAutomation\\venv_pythonAuto\\lib\\site-packages\\python_imagesearch\\__init__.py',
+   'PYMODULE'),
+  ('python_imagesearch.imagesearch',
+   'C:\\Users\\magene\\OneDrive - NVIDIA Corporation\\Desktop\\Marian Nvidia '
+   'AutoTestResults\\pythonTestAutomation\\venv_pythonAuto\\lib\\site-packages\\python_imagesearch\\imagesearch.py',
+   'PYMODULE'),
+  ('pytweening',
+   'C:\\Users\\magene\\OneDrive - NVIDIA Corporation\\Desktop\\Marian Nvidia '
+   'AutoTestResults\\pythonTestAutomation\\venv_pythonAuto\\lib\\site-packages\\pytweening\\__init__.py',
+   'PYMODULE'),
+  ('queue',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.8_3.8.2800.0_x64__qbz5n2kfra8p0\\lib\\queue.py',
+   'PYMODULE'),
+  ('quopri',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.8_3.8.2800.0_x64__qbz5n2kfra8p0\\lib\\quopri.py',
+   'PYMODULE'),
+  ('random',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.8_3.8.2800.0_x64__qbz5n2kfra8p0\\lib\\random.py',
+   'PYMODULE'),
+  ('runpy',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.8_3.8.2800.0_x64__qbz5n2kfra8p0\\lib\\runpy.py',
+   'PYMODULE'),
+  ('secrets',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.8_3.8.2800.0_x64__qbz5n2kfra8p0\\lib\\secrets.py',
+   'PYMODULE'),
+  ('selectors',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.8_3.8.2800.0_x64__qbz5n2kfra8p0\\lib\\selectors.py',
+   'PYMODULE'),
+  ('shlex',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.8_3.8.2800.0_x64__qbz5n2kfra8p0\\lib\\shlex.py',
+   'PYMODULE'),
+  ('shutil',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.8_3.8.2800.0_x64__qbz5n2kfra8p0\\lib\\shutil.py',
+   'PYMODULE'),
+  ('signal',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.8_3.8.2800.0_x64__qbz5n2kfra8p0\\lib\\signal.py',
+   'PYMODULE'),
+  ('six',
+   'C:\\Users\\magene\\OneDrive - NVIDIA Corporation\\Desktop\\Marian Nvidia '
+   'AutoTestResults\\pythonTestAutomation\\venv_pythonAuto\\lib\\site-packages\\six.py',
+   'PYMODULE'),
+  ('smtplib',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.8_3.8.2800.0_x64__qbz5n2kfra8p0\\lib\\smtplib.py',
+   'PYMODULE'),
+  ('socket',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.8_3.8.2800.0_x64__qbz5n2kfra8p0\\lib\\socket.py',
+   'PYMODULE'),
+  ('socketserver',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.8_3.8.2800.0_x64__qbz5n2kfra8p0\\lib\\socketserver.py',
+   'PYMODULE'),
+  ('ssl',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.8_3.8.2800.0_x64__qbz5n2kfra8p0\\lib\\ssl.py',
+   'PYMODULE'),
+  ('string',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.8_3.8.2800.0_x64__qbz5n2kfra8p0\\lib\\string.py',
+   'PYMODULE'),
+  ('stringprep',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.8_3.8.2800.0_x64__qbz5n2kfra8p0\\lib\\stringprep.py',
+   'PYMODULE'),
+  ('subprocess',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.8_3.8.2800.0_x64__qbz5n2kfra8p0\\lib\\subprocess.py',
+   'PYMODULE'),
+  ('sysconfig',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.8_3.8.2800.0_x64__qbz5n2kfra8p0\\lib\\sysconfig.py',
+   'PYMODULE'),
+  ('tarfile',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.8_3.8.2800.0_x64__qbz5n2kfra8p0\\lib\\tarfile.py',
+   'PYMODULE'),
+  ('tempfile',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.8_3.8.2800.0_x64__qbz5n2kfra8p0\\lib\\tempfile.py',
+   'PYMODULE'),
+  ('textwrap',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.8_3.8.2800.0_x64__qbz5n2kfra8p0\\lib\\textwrap.py',
+   'PYMODULE'),
+  ('threading',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.8_3.8.2800.0_x64__qbz5n2kfra8p0\\lib\\threading.py',
+   'PYMODULE'),
+  ('tkinter',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.8_3.8.2800.0_x64__qbz5n2kfra8p0\\lib\\tkinter\\__init__.py',
+   'PYMODULE'),
+  ('tkinter.commondialog',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.8_3.8.2800.0_x64__qbz5n2kfra8p0\\lib\\tkinter\\commondialog.py',
+   'PYMODULE'),
+  ('tkinter.constants',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.8_3.8.2800.0_x64__qbz5n2kfra8p0\\lib\\tkinter\\constants.py',
+   'PYMODULE'),
+  ('tkinter.dialog',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.8_3.8.2800.0_x64__qbz5n2kfra8p0\\lib\\tkinter\\dialog.py',
+   'PYMODULE'),
+  ('tkinter.filedialog',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.8_3.8.2800.0_x64__qbz5n2kfra8p0\\lib\\tkinter\\filedialog.py',
+   'PYMODULE'),
+  ('tkinter.font',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.8_3.8.2800.0_x64__qbz5n2kfra8p0\\lib\\tkinter\\font.py',
+   'PYMODULE'),
+  ('tkinter.messagebox',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.8_3.8.2800.0_x64__qbz5n2kfra8p0\\lib\\tkinter\\messagebox.py',
+   'PYMODULE'),
+  ('tkinter.simpledialog',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.8_3.8.2800.0_x64__qbz5n2kfra8p0\\lib\\tkinter\\simpledialog.py',
+   'PYMODULE'),
+  ('tkinter.ttk',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.8_3.8.2800.0_x64__qbz5n2kfra8p0\\lib\\tkinter\\ttk.py',
+   'PYMODULE'),
+  ('token',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.8_3.8.2800.0_x64__qbz5n2kfra8p0\\lib\\token.py',
+   'PYMODULE'),
+  ('tokenize',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.8_3.8.2800.0_x64__qbz5n2kfra8p0\\lib\\tokenize.py',
+   'PYMODULE'),
+  ('tracemalloc',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.8_3.8.2800.0_x64__qbz5n2kfra8p0\\lib\\tracemalloc.py',
+   'PYMODULE'),
+  ('tty',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.8_3.8.2800.0_x64__qbz5n2kfra8p0\\lib\\tty.py',
+   'PYMODULE'),
+  ('typing',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.8_3.8.2800.0_x64__qbz5n2kfra8p0\\lib\\typing.py',
+   'PYMODULE'),
+  ('unittest',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.8_3.8.2800.0_x64__qbz5n2kfra8p0\\lib\\unittest\\__init__.py',
+   'PYMODULE'),
+  ('unittest.async_case',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.8_3.8.2800.0_x64__qbz5n2kfra8p0\\lib\\unittest\\async_case.py',
+   'PYMODULE'),
+  ('unittest.case',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.8_3.8.2800.0_x64__qbz5n2kfra8p0\\lib\\unittest\\case.py',
+   'PYMODULE'),
+  ('unittest.loader',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.8_3.8.2800.0_x64__qbz5n2kfra8p0\\lib\\unittest\\loader.py',
+   'PYMODULE'),
+  ('unittest.main',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.8_3.8.2800.0_x64__qbz5n2kfra8p0\\lib\\unittest\\main.py',
+   'PYMODULE'),
+  ('unittest.result',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.8_3.8.2800.0_x64__qbz5n2kfra8p0\\lib\\unittest\\result.py',
+   'PYMODULE'),
+  ('unittest.runner',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.8_3.8.2800.0_x64__qbz5n2kfra8p0\\lib\\unittest\\runner.py',
+   'PYMODULE'),
+  ('unittest.signals',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.8_3.8.2800.0_x64__qbz5n2kfra8p0\\lib\\unittest\\signals.py',
+   'PYMODULE'),
+  ('unittest.suite',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.8_3.8.2800.0_x64__qbz5n2kfra8p0\\lib\\unittest\\suite.py',
+   'PYMODULE'),
+  ('unittest.util',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.8_3.8.2800.0_x64__qbz5n2kfra8p0\\lib\\unittest\\util.py',
+   'PYMODULE'),
+  ('urllib',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.8_3.8.2800.0_x64__qbz5n2kfra8p0\\lib\\urllib\\__init__.py',
+   'PYMODULE'),
+  ('urllib.error',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.8_3.8.2800.0_x64__qbz5n2kfra8p0\\lib\\urllib\\error.py',
+   'PYMODULE'),
+  ('urllib.parse',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.8_3.8.2800.0_x64__qbz5n2kfra8p0\\lib\\urllib\\parse.py',
+   'PYMODULE'),
+  ('urllib.request',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.8_3.8.2800.0_x64__qbz5n2kfra8p0\\lib\\urllib\\request.py',
+   'PYMODULE'),
+  ('urllib.response',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.8_3.8.2800.0_x64__qbz5n2kfra8p0\\lib\\urllib\\response.py',
+   'PYMODULE'),
+  ('uu',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.8_3.8.2800.0_x64__qbz5n2kfra8p0\\lib\\uu.py',
+   'PYMODULE'),
+  ('uuid',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.8_3.8.2800.0_x64__qbz5n2kfra8p0\\lib\\uuid.py',
+   'PYMODULE'),
+  ('webbrowser',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.8_3.8.2800.0_x64__qbz5n2kfra8p0\\lib\\webbrowser.py',
+   'PYMODULE'),
+  ('xml',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.8_3.8.2800.0_x64__qbz5n2kfra8p0\\lib\\xml\\__init__.py',
+   'PYMODULE'),
+  ('xml.parsers',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.8_3.8.2800.0_x64__qbz5n2kfra8p0\\lib\\xml\\parsers\\__init__.py',
+   'PYMODULE'),
+  ('xml.parsers.expat',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.8_3.8.2800.0_x64__qbz5n2kfra8p0\\lib\\xml\\parsers\\expat.py',
+   'PYMODULE'),
+  ('xml.sax',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.8_3.8.2800.0_x64__qbz5n2kfra8p0\\lib\\xml\\sax\\__init__.py',
+   'PYMODULE'),
+  ('xml.sax._exceptions',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.8_3.8.2800.0_x64__qbz5n2kfra8p0\\lib\\xml\\sax\\_exceptions.py',
+   'PYMODULE'),
+  ('xml.sax.expatreader',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.8_3.8.2800.0_x64__qbz5n2kfra8p0\\lib\\xml\\sax\\expatreader.py',
+   'PYMODULE'),
+  ('xml.sax.handler',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.8_3.8.2800.0_x64__qbz5n2kfra8p0\\lib\\xml\\sax\\handler.py',
+   'PYMODULE'),
+  ('xml.sax.saxutils',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.8_3.8.2800.0_x64__qbz5n2kfra8p0\\lib\\xml\\sax\\saxutils.py',
+   'PYMODULE'),
+  ('xml.sax.xmlreader',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.8_3.8.2800.0_x64__qbz5n2kfra8p0\\lib\\xml\\sax\\xmlreader.py',
+   'PYMODULE'),
+  ('xmlrpc',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.8_3.8.2800.0_x64__qbz5n2kfra8p0\\lib\\xmlrpc\\__init__.py',
+   'PYMODULE'),
+  ('xmlrpc.client',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.8_3.8.2800.0_x64__qbz5n2kfra8p0\\lib\\xmlrpc\\client.py',
+   'PYMODULE'),
+  ('zipfile',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.8_3.8.2800.0_x64__qbz5n2kfra8p0\\lib\\zipfile.py',
+   'PYMODULE'),
+  ('zipimport',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.8_3.8.2800.0_x64__qbz5n2kfra8p0\\lib\\zipimport.py',
+   'PYMODULE'),
+  ('zipp',
+   'C:\\Users\\magene\\OneDrive - NVIDIA Corporation\\Desktop\\Marian Nvidia '
+   'AutoTestResults\\pythonTestAutomation\\venv_pythonAuto\\lib\\site-packages\\zipp\\__init__.py',
+   'PYMODULE'),
+  ('zipp.compat',
+   'C:\\Users\\magene\\OneDrive - NVIDIA Corporation\\Desktop\\Marian Nvidia '
+   'AutoTestResults\\pythonTestAutomation\\venv_pythonAuto\\lib\\site-packages\\zipp\\compat\\__init__.py',
+   'PYMODULE'),
+  ('zipp.compat.py310',
+   'C:\\Users\\magene\\OneDrive - NVIDIA Corporation\\Desktop\\Marian Nvidia '
+   'AutoTestResults\\pythonTestAutomation\\venv_pythonAuto\\lib\\site-packages\\zipp\\compat\\py310.py',
+   'PYMODULE'),
+  ('zipp.glob',
+   'C:\\Users\\magene\\OneDrive - NVIDIA Corporation\\Desktop\\Marian Nvidia '
+   'AutoTestResults\\pythonTestAutomation\\venv_pythonAuto\\lib\\site-packages\\zipp\\glob.py',
+   'PYMODULE')])

@@ -1,0 +1,113 @@
+
+Source: https://medium.com/@martin.lees/image-recognition-for-automation-with-python-711ac617b4e5
+
+python -m pip install pyautogui
+python -m pip install matplotlib
+python -m pip install opencv-python
+python -m pip install python-imagesearch
+python -m pip install testreact *
+
+
+
+
+
+
+##### RABISH
+def find_text(text, timeout=10):
+    try:
+        # מציאת מיקום הטקסט על מסך המחשב
+        text_location = pyautogui.locateOnScreen(text, confidence=0.9, grayscale=True, region=(0, 0, 1920, 1080))
+        
+        # אם הטקסט נמצא
+        if text_location is not None:
+            # החזר אמת
+            return True
+        else:
+            # אחרת, החזר שקר
+            return False
+    except Exception as e:
+        # במקרה של שגיאה, הדפס אותה והחזר שקר
+        print("Error:", e)
+        return False
+        
+#Action Is the image found
+def find_icon(icon_path, timeout=10):
+    try:
+        # Locate the icon on the screen
+       # icon_location = pyautogui.locateOnScreen(icon_path, confidence=0.5, grayscale=True, region=(0, 0, 1920, 1080))
+        icon_location = pyautogui.locateOnScreen(icon_path)
+        print(icon_location)
+        if icon_location is not None:
+            #found Icon
+            return True
+        else:
+            #did not find, returing false
+            return False
+    except Exception as e:
+        print("Error:", e)
+        return False
+    
+    
+def brute_force_miae_matchin(img_path):
+    # icon = cv.imread(img_path, cv.IMREAD_GRAYSCALE)
+    # screen = pyautogui.screenshot()
+    # screen = cv.cvtColor(np.array(screen), cv.COLOR_RGB2GRAY)
+    # screen = cv.imread(img_path, cv.IMREAD_GRAYSCALE)
+    
+    # orb = cv.ORB_create()
+    # kp1, des1 = orb.detectAndCompute(icon,None)
+    # kp2, des2 = orb.detectAndCompute(screen,None)
+
+    # print(kp1, des1)
+    # print(kp2,des2)
+    # bf = cv.BFMatcher(cv.NORM_HAMMING, crossCheck=True)
+    # matches = bf.match(des1, des2)
+    # matches = sorted(matches, key = lambda x:x.distance)
+    # print(matches)
+
+
+    # image3 = cv.drawMatches(icon, kp1, screen, kp2, matches[:10], None, flags=cv.DrawMatchesFlags_NOT_DRAW_SINGLE_POINTS)
+    # plt.imshow(image3),plt.show()
+
+    #screen = cv.imread(pyautogui.screenshot(), cv.IMREAD_GRAYSCALE)
+
+
+
+    # method = cv2.TM_CCOEFF#TM_CCOEFF_NORMED#TM_SQDIFF_NORMED
+
+    # # Read the images from the file
+    # small_image = cv2.imread(img_path, cv.IMREAD_GRAYSCALE)
+    # large_image = cv2.imread("D:\\Projects\\Marian Nvidia AutoTestResults\\pythonTestAutomation\\icons\\test starting.jpg", cv.IMREAD_GRAYSCALE)
+
+    # result = cv2.matchTemplate(small_image, large_image, method)
+    # print(result)
+    # # We want the minimum squared difference
+    # mn,_,mnLoc,_ = cv2.minMaxLoc(result)
+
+    # # Draw the rectangle:
+    # # Extract the coordinates of our best match
+    # MPx,MPy = mnLoc
+
+    # # Step 2: Get the size of the template. This is the same size as the match.
+    # trows,tcols = small_image.shape[:2]
+
+    # # Step 3: Draw the rectangle on large_image
+    # cv2.rectangle(large_image, (MPx,MPy),(MPx+tcols,MPy+trows),(0,0,255),2)
+
+    # # Display the original image with the rectangle around the match.
+    # cv2.imshow('output',large_image)
+    # #cv2.imshow('output',small_image)
+    # # The image is only displayed if we call this
+    # cv2.waitKey(0)
+
+
+    pos = imagesearch.imagesearch(img_path)
+    if pos[0] != -1:
+        #print("position : ", pos[0], pos[1])
+        return True
+        #pyautogui.moveTo(pos[0], pos[1])
+    else:
+        #print("image not found")
+        return False
+
+    return False
